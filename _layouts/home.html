@@ -10,7 +10,7 @@ layout: default
     <!-- <img src="{{ site.baseurl }}/images/{{ post.image }}"> -->
 
     <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      {{ post.title | escape }}
     </h2>
 
     {{ post.content }}

@@ -1,8 +1,6 @@
 ## Beat
----
 
 A Vox Media AFK
-
 
 ### Project
 

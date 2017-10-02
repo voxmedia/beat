@@ -1,0 +1,11 @@
+---
+title: Beat
+date: 2017-10-02 12:00:00
+categories:
+- jekyll
+- update
+image: test.jpg
+layout: page
+---
+
+This is a test
