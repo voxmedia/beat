@@ -1,16 +1,7 @@
 .c-footer {
   display: flex;
   justify-content: center;
-  background: $grey-color-light;
-
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem 0rem;
-
-  padding-right: 1rem;
-  padding-left: 1rem;
+  margin-top: 12vw;
 
   @include media-query {
     padding-right: 0rem;

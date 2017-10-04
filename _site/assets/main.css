@@ -404,7 +404,7 @@ body {
   line-height: 1.25;
   position: relative;
   min-height: 100vh;
-  background: #e6e6e6; }
+  background: #132ff4; }
 
 img,
 video {
@@ -492,14 +492,7 @@ table {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #e8e8e8;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem 0rem;
-  padding-right: 1rem;
-  padding-left: 1rem; }
+  margin-top: 12vw; }
   @media screen and (min-width: 1132px) {
     .c-footer {
       padding-right: 0rem;
@@ -550,10 +543,10 @@ table {
     content: "";
     height: 100vw;
     width: 250vw;
-    background: #132ff4;
+    background: #e6e6e6;
     position: absolute;
     top: -20vw;
-    left: -200vw;
+    left: 50vw;
     z-index: -1;
     -webkit-transform: skew(59deg);
             transform: skew(59deg); }
