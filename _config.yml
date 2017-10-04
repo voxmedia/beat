@@ -20,6 +20,8 @@ twitter_username: voxmedia
 github_username: voxmedia
 permalink: "/projects/:title.html"
 markdown: kramdown
+includes:
+- svgs
 gems:
 - jekyll-feed
 - jekyll-autoprefixer

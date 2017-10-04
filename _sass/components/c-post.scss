@@ -1,9 +1,105 @@
 .c-post--list {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  height: 100vh;
+
+  &:nth-child(1) {
+    &:before {
+      content: "";
+      height: 100vw;
+      width: 250vw;
+      background: $blue-main;
+      position: absolute;
+      top: -20vw;
+      left: -200vw;
+      z-index: -1;
+      transform: skew(59deg);
+    }
+  }
+
+  p {
+    font-family: 'Source Code Pro', monospace;
+    max-width: 425px;
+    color: $white-main;
+    margin: 8vw auto 0vw;
+  }
 }
 
 .c-post {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
+
+  &-tag {
+
+    &-left,
+    &-right {
+      position: absolute;
+      top: 20vw;
+      font-weight: 900;
+      font-size: 1.5vw;
+    }
+
+    &-left {
+      left: 0;
+      transform: rotate(-90deg);
+      color: $white-main;
+    }
+    &-right {
+      right: 0;
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.c-beat-logo {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 3vw;
+  height: 12vw;
+
+  svg {
+    width: 100%;
+
+    &:nth-child(1) {
+      height: 10vw;
+      margin-bottom: 1vw;
+    }
+  }
+
+  .beat-fill {
+    fill: $blue-main;
+  }
+}
+
+.c-about-main {
+  margin-top: 8vw;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  a {
+    text-transform: uppercase;
+    font-weight: 900;
+    color: $white-main;
+    font-size: 5vw;
+    position: relative;
+    z-index: 1;
+
+    &:before {
+      content: "";
+      width: 100%;
+      height: 0vw;
+      bottom: .5vw;
+      background: black;
+      position: absolute;
+      z-index: -1;
+      transition: all .3s;
+    }
+
+    &:hover {
+      &:before {
+        height: 3vw;
+      }
+    }
+  }
 }

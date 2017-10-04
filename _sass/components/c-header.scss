@@ -1,4 +1,11 @@
 .c-header {
+  position: fixed;
+  width: 100%;
+  background: white;
+  visibility: hidden;
+  opacity: 0;
+  transition: all $transition-time;
+
   display: flex;
   justify-content: center;
   margin-right: 1rem;
@@ -19,5 +26,10 @@
     border-bottom: 1px solid $grey-color-light;
 
     @extend %wrapper;
+  }
+
+  &.active {
+    visibility: visible;
+    opacity: 1;
   }
 }

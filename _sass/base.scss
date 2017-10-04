@@ -1,5 +1,11 @@
 * {
   box-sizing: border-box;
+  font-smoothing: antialiased;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
@@ -9,6 +15,7 @@ body {
   line-height: $base-line-height;
   position: relative;
   min-height: 100vh;
+  background: $background-color;
 }
 
 img,
@@ -64,7 +71,7 @@ table {
 }
 
 %wrapper {
-  max-width: $content-width;
+  max-width: 100%;
 }
 
 
