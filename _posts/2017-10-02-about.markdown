@@ -13,6 +13,10 @@ layout: page
   {% include svgs/beat-logo.html %}
 </div>
 
+<div class="c-seal">
+  {% include svgs/seal.html %}
+</div>
+
 <div class="c-about-main">
   <a href="">sign up</a>
 </div>

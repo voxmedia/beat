@@ -15,7 +15,55 @@ body {
   line-height: $base-line-height;
   position: relative;
   min-height: 100vh;
-  background: $background-color;
+
+  &.blue {
+    background: $blue-main;
+    .beat-fill {
+      fill: $blue-main;
+    }
+  }
+
+  &.pink {
+    background: $pink-main;
+    .beat-fill {
+      fill: $pink-main;
+    }
+  }
+
+  &.gold {
+    background: $gold-main;
+    .beat-fill {
+      fill: $gold-main;
+    }
+  }
+
+  &.green {
+    background: $green-main;
+    .beat-fill {
+      fill: $green-main;
+    }
+  }
+
+  &.red {
+    background: $red-main;
+    .beat-fill {
+      fill: $red-main;
+    }
+  }
+
+  &.orange {
+    background: $orange-main;
+    .beat-fill {
+      fill: $orange-main;
+    }
+  }
+
+  &.purple {
+    background: $purple-main;
+    .beat-fill {
+      fill: $purple-main;
+    }
+  }
 }
 
 img,
@@ -73,7 +121,6 @@ table {
 %wrapper {
   max-width: 100%;
 }
-
 
 
 

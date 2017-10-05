@@ -6,6 +6,14 @@
   color: $white-main;
   font-family: $copy-font-family;
   padding: 2vw 0;
+  position: relative;
+
+  .c-footer-charm {
+    position: absolute;
+    top: -1.75vw;
+    left: 20vw;
+    transform: scale(1.5);
+  }
 
   @include media-query {
     padding-right: 0rem;
@@ -18,5 +26,12 @@
     justify-content: space-between;
 
     @extend %wrapper;
+  }
+
+  a {
+    color: #969696;
+    &:hover {
+      color: #e6e6e6;
+    }
   }
 }

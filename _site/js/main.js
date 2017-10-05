@@ -15,3 +15,9 @@ $(function() {
 
     });
 });
+
+$(function() {
+    var classes = ["blue", "pink", "gold", "green", "red", "orange", "purple"];
+
+    $('body').addClass(classes[~~(Math.random()*classes.length)]);
+});

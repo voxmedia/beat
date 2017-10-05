@@ -2,7 +2,7 @@
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
-  padding-bottom: 6vw;
+  padding-bottom: 10vw;
 
   &:nth-child(1) {
     &:before {
@@ -13,12 +13,12 @@
       background-image: url('/images/shield-outline.svg');
       background-repeat: no-repeat;
       background-size: 43%;
-      background-position: -46vw 30vw;
+      background-position: -44vw 26vw;
       position: absolute;
-      top: -20vw;
+      top: -13.5vw;
       left: 50vw;
       z-index: -1;
-      transform: skew(59deg);
+      transform: skew(54deg);
     }
   }
 
@@ -56,6 +56,13 @@
   }
 }
 
+.c-seal {
+  position: absolute;
+  transform: scale(1.7);
+  top: 14vw;
+  left: 60vw;
+}
+
 .c-beat-logo {
   display: flex;
   flex-direction: column;
@@ -70,10 +77,6 @@
       height: 10vw;
       margin-bottom: 1vw;
     }
-  }
-
-  .beat-fill {
-    fill: $blue-main;
   }
 }
 

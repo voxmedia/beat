@@ -403,8 +403,35 @@ body {
   font-weight: 400;
   line-height: 1.25;
   position: relative;
-  min-height: 100vh;
-  background: #132ff4; }
+  min-height: 100vh; }
+  body.blue {
+    background: #132ff4; }
+    body.blue .beat-fill {
+      fill: #132ff4; }
+  body.pink {
+    background: #F8ABAB; }
+    body.pink .beat-fill {
+      fill: #F8ABAB; }
+  body.gold {
+    background: #D6C028; }
+    body.gold .beat-fill {
+      fill: #D6C028; }
+  body.green {
+    background: #6EB77F; }
+    body.green .beat-fill {
+      fill: #6EB77F; }
+  body.red {
+    background: #BB3736; }
+    body.red .beat-fill {
+      fill: #BB3736; }
+  body.orange {
+    background: #EE8022; }
+    body.orange .beat-fill {
+      fill: #EE8022; }
+  body.purple {
+    background: #66469C; }
+    body.purple .beat-fill {
+      fill: #66469C; }
 
 img,
 video {
@@ -498,7 +525,14 @@ table {
   background-color: #000000;
   color: #ffffff;
   font-family: "Source Code Pro", monospace;
-  padding: 2vw 0; }
+  padding: 2vw 0;
+  position: relative; }
+  .c-footer .c-footer-charm {
+    position: absolute;
+    top: -1.75vw;
+    left: 20vw;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5); }
   @media screen and (min-width: 1132px) {
     .c-footer {
       padding-right: 0rem;
@@ -514,6 +548,10 @@ table {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between; }
+  .c-footer a {
+    color: #969696; }
+    .c-footer a:hover {
+      color: #e6e6e6; }
 
 .c-body {
   display: -webkit-box;
@@ -539,7 +577,7 @@ table {
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
-  padding-bottom: 6vw; }
+  padding-bottom: 10vw; }
   .c-post--list:nth-child(1):before {
     content: "";
     height: 100vw;
@@ -548,13 +586,13 @@ table {
     background-image: url("/images/shield-outline.svg");
     background-repeat: no-repeat;
     background-size: 43%;
-    background-position: -46vw 30vw;
+    background-position: -44vw 26vw;
     position: absolute;
-    top: -20vw;
+    top: -13.5vw;
     left: 50vw;
     z-index: -1;
-    -webkit-transform: skew(59deg);
-            transform: skew(59deg); }
+    -webkit-transform: skew(54deg);
+            transform: skew(54deg); }
   .c-post--list p {
     font-family: 'Source Code Pro', monospace;
     max-width: 425px;
@@ -579,6 +617,13 @@ table {
     -webkit-transform: rotate(90deg);
             transform: rotate(90deg); }
 
+.c-seal {
+  position: absolute;
+  -webkit-transform: scale(1.7);
+          transform: scale(1.7);
+  top: 14vw;
+  left: 60vw; }
+
 .c-beat-logo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -594,8 +639,6 @@ table {
     .c-beat-logo svg:nth-child(1) {
       height: 10vw;
       margin-bottom: 1vw; }
-  .c-beat-logo .beat-fill {
-    fill: #132ff4; }
 
 .c-about-main {
   margin-top: 15vw;
