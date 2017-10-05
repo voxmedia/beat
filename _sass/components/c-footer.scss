@@ -1,7 +1,12 @@
 .c-footer {
   display: flex;
   justify-content: center;
-  margin-top: 12vw;
+  align-items: center;
+  //margin-top: 12vw;
+  background-color: $black-main;
+  color: $white-main;
+  font-family: $copy-font-family;
+  padding: 2vw 0;
 
   @include media-query {
     padding-right: 0rem;
@@ -11,7 +16,6 @@
   .footer-container {
     display: flex;
     flex-direction: column;
-    width: 100%;
     justify-content: space-between;
 
     @extend %wrapper;

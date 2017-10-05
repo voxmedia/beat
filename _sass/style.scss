@@ -2,7 +2,8 @@
 
 // Defaults variables
 
-$base-font-family: "nudista-web";
+$base-font-family: "nudista-web", sans-serif;
+$copy-font-family: "Source Code Pro", monospace;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $base-line-height: 1.25 !default;
@@ -16,6 +17,7 @@ $brand-color:      #2a7ae2 !default;
 
 $blue-main:        #132ff4 !default;
 $grey-main:        #e6e6e6 !default;
+$black-main:        #000000 !default;
 $white-main:       #ffffff !default;
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;

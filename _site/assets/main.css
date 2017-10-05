@@ -398,7 +398,7 @@ html, body {
   width: 100%; }
 
 body {
-  font-family: "nudista-web";
+  font-family: "nudista-web", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.25;
@@ -492,7 +492,13 @@ table {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: 12vw; }
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: "Source Code Pro", monospace;
+  padding: 2vw 0; }
   @media screen and (min-width: 1132px) {
     .c-footer {
       padding-right: 0rem;
@@ -505,7 +511,6 @@ table {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    width: 100%;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between; }
@@ -518,8 +523,7 @@ table {
       -ms-flex-pack: center;
           justify-content: center;
   margin-right: 1rem;
-  margin-left: 1rem;
-  padding-bottom: 10rem; }
+  margin-left: 1rem; }
   @media screen and (min-width: 1132px) {
     .c-body {
       margin-right: 0rem;
@@ -538,7 +542,10 @@ table {
             justify-content: space-between; }
 
 .c-post--list {
-  height: 100vh; }
+  min-height: 100vh;
+  overflow-y: hidden;
+  position: relative;
+  padding-bottom: 3vw; }
   .c-post--list:nth-child(1):before {
     content: "";
     height: 100vw;
