@@ -2,7 +2,7 @@
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
-  padding-bottom: 3vw;
+  padding-bottom: 6vw;
 
   &:nth-child(1) {
     &:before {
@@ -10,6 +10,10 @@
       height: 100vw;
       width: 250vw;
       background: $grey-main;
+      background-image: url('/images/shield-outline.svg');
+      background-repeat: no-repeat;
+      background-size: 43%;
+      background-position: -46vw 30vw;
       position: absolute;
       top: -20vw;
       left: 50vw;
@@ -73,8 +77,12 @@
   }
 }
 
+.c-shield-outline {
+
+}
+
 .c-about-main {
-  margin-top: 8vw;
+  margin-top: 15vw;
   width: 100%;
   display: flex;
   flex-direction: column;

@@ -521,13 +521,7 @@ table {
   display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
-  margin-right: 1rem;
-  margin-left: 1rem; }
-  @media screen and (min-width: 1132px) {
-    .c-body {
-      margin-right: 0rem;
-      margin-left: 0rem; } }
+          justify-content: center; }
   .c-body .body-container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -545,12 +539,16 @@ table {
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
-  padding-bottom: 3vw; }
+  padding-bottom: 6vw; }
   .c-post--list:nth-child(1):before {
     content: "";
     height: 100vw;
     width: 250vw;
     background: #e6e6e6;
+    background-image: url("/images/shield-outline.svg");
+    background-repeat: no-repeat;
+    background-size: 43%;
+    background-position: -46vw 30vw;
     position: absolute;
     top: -20vw;
     left: 50vw;
@@ -600,7 +598,7 @@ table {
     fill: #132ff4; }
 
 .c-about-main {
-  margin-top: 8vw;
+  margin-top: 15vw;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
