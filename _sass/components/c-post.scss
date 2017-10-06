@@ -58,9 +58,13 @@
 
 .c-seal {
   position: absolute;
-  transform: scale(1.7);
-  top: 14vw;
-  left: 60vw;
+  top: 13vw;
+  left: 59vw;
+  width: 7vw;
+
+  svg {
+    width: 100%;
+  }
 }
 
 .c-beat-logo {

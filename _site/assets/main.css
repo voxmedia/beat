@@ -408,30 +408,44 @@ body {
     background: #132ff4; }
     body.blue .beat-fill {
       fill: #132ff4; }
+    body.blue .c-header {
+      background: #132ff4; }
   body.pink {
     background: #F8ABAB; }
     body.pink .beat-fill {
       fill: #F8ABAB; }
+    body.pink .c-header {
+      background: #F8ABAB; }
   body.gold {
     background: #D6C028; }
     body.gold .beat-fill {
       fill: #D6C028; }
+    body.gold .c-header {
+      background: #D6C028; }
   body.green {
     background: #6EB77F; }
     body.green .beat-fill {
       fill: #6EB77F; }
+    body.green .c-header {
+      background: #6EB77F; }
   body.red {
     background: #BB3736; }
     body.red .beat-fill {
       fill: #BB3736; }
+    body.red .c-header {
+      background: #BB3736; }
   body.orange {
     background: #EE8022; }
     body.orange .beat-fill {
       fill: #EE8022; }
+    body.orange .c-header {
+      background: #EE8022; }
   body.purple {
     background: #66469C; }
     body.purple .beat-fill {
       fill: #66469C; }
+    body.purple .c-header {
+      background: #66469C; }
 
 img,
 video {
@@ -471,17 +485,38 @@ table {
 .c-header .header-container, .c-footer .footer-container, .c-body .body-container {
   max-width: 100%; }
 
+@-webkit-keyframes example {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(720deg);
+            transform: rotate(720deg); } }
+
+@keyframes example {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(720deg);
+            transform: rotate(720deg); } }
+#moving-seal {
+  -webkit-transform-origin: center;
+          transform-origin: center;
+  -webkit-animation: example 30s linear 2s infinite;
+          animation: example 30s linear 2s infinite; }
+
 .c-nav a {
   margin-left: .5rem; }
 
 .c-header {
   position: fixed;
   width: 100%;
-  background: white;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
+  z-index: 9;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -501,13 +536,8 @@ table {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    width: 100%;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
-    border-bottom: 1px solid #e8e8e8; }
+    padding-bottom: 1.25rem; }
   .c-header.active {
     visibility: visible;
     opacity: 1; }
@@ -619,10 +649,11 @@ table {
 
 .c-seal {
   position: absolute;
-  -webkit-transform: scale(1.7);
-          transform: scale(1.7);
-  top: 14vw;
-  left: 60vw; }
+  top: 13vw;
+  left: 59vw;
+  width: 7vw; }
+  .c-seal svg {
+    width: 100%; }
 
 .c-beat-logo {
   display: -webkit-box;

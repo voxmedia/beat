@@ -5,6 +5,8 @@ $( function() {
 
   var tops = [
     $('[data-section="about"]').position().top,
+    $('[data-section="register"]').position().top,
+    $('[data-section="curate"]').position().top,
     
 
     // when compiled it looks like this
@@ -36,6 +38,8 @@ $( function() {
   function setTops() {
     tops = [
     $('[data-section="about"]').position().top,
+    $('[data-section="register"]').position().top,
+    $('[data-section="curate"]').position().top,
     
 
     // when compiled it looks like this
