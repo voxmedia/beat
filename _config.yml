@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Beat
 timezone: UTC
 collections:
   posts:
@@ -12,17 +12,16 @@ collections:
     title: Uploads
     output: true
 email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: 'TBD.'
 
-'
-baseurl: 
-url: 
-twitter_username: testtest
-github_username: jekyll
+baseurl:
+url:
+twitter_username: voxmedia
+github_username: voxmedia
 permalink: "/projects/:title.html"
 markdown: kramdown
+includes:
+- svgs
 gems:
 - jekyll-feed
 - jekyll-autoprefixer

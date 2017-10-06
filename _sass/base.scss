@@ -1,5 +1,11 @@
 * {
   box-sizing: border-box;
+  font-smoothing: antialiased;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
@@ -9,6 +15,76 @@ body {
   line-height: $base-line-height;
   position: relative;
   min-height: 100vh;
+
+  &.blue {
+    background: $blue-main;
+    .beat-fill {
+      fill: $blue-main;
+    }
+    .c-header {
+      background: $blue-main;
+    }
+  }
+
+  &.pink {
+    background: $pink-main;
+    .beat-fill {
+      fill: $pink-main;
+    }
+    .c-header {
+      background: $pink-main;
+    }
+  }
+
+  &.gold {
+    background: $gold-main;
+    .beat-fill {
+      fill: $gold-main;
+    }
+    .c-header {
+      background: $gold-main;
+    }
+  }
+
+  &.green {
+    background: $green-main;
+    .beat-fill {
+      fill: $green-main;
+    }
+    .c-header {
+      background: $green-main;
+    }
+  }
+
+  &.red {
+    background: $red-main;
+    .beat-fill {
+      fill: $red-main;
+    }
+    .c-header {
+      background: $red-main;
+    }
+  }
+
+  &.orange {
+    background: $orange-main;
+    .beat-fill {
+      fill: $orange-main;
+    }
+    .c-header {
+      background: $orange-main;
+    }
+  }
+
+  &.purple {
+    background: $purple-main;
+    .beat-fill {
+      fill: $purple-main;
+    }
+    .c-header {
+      background: $purple-main;
+    }
+  }
 }
 
 img,
@@ -64,11 +140,18 @@ table {
 }
 
 %wrapper {
-  max-width: $content-width;
+  max-width: 100%;
 }
 
+@keyframes example {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(720deg);}
+}
 
-
+#moving-seal {
+  transform-origin: center;
+  animation: example 30s linear 2s infinite;
+}
 
 
 

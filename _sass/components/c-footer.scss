@@ -1,16 +1,19 @@
 .c-footer {
   display: flex;
   justify-content: center;
-  background: $grey-color-light;
+  align-items: center;
+  background-color: $black-main;
+  color: $white-main;
+  font-family: $copy-font-family;
+  padding: 2vw 0;
+  position: relative;
 
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem 0rem;
-
-  padding-right: 1rem;
-  padding-left: 1rem;
+  .c-footer-charm {
+    position: absolute;
+    top: -1.75vw;
+    left: 20vw;
+    transform: scale(1.5);
+  }
 
   @include media-query {
     padding-right: 0rem;
@@ -20,9 +23,15 @@
   .footer-container {
     display: flex;
     flex-direction: column;
-    width: 100%;
     justify-content: space-between;
 
     @extend %wrapper;
+  }
+
+  a {
+    color: #969696;
+    &:hover {
+      color: #e6e6e6;
+    }
   }
 }

@@ -1,14 +1,6 @@
 .c-body {
   display: flex;
   justify-content: center;
-  margin-right: 1rem;
-  margin-left: 1rem;
-  padding-bottom: 10rem;
-
-  @include media-query {
-    margin-right: 0rem;
-    margin-left: 0rem;
-  }
 
   .body-container {
     display: flex;
