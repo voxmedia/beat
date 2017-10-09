@@ -507,7 +507,14 @@ table {
           animation: example 30s linear 2s infinite; }
 
 .c-nav {
-  font-family: "nudista-web", sans-serif; }
+  font-family: "nudista-web", sans-serif;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center; }
   .c-nav a {
     margin-left: .5rem;
     font-weight: 900;
