@@ -1,7 +1,11 @@
 .c-nav {
+  font-family: $base-font-family;
 
   a {
     margin-left: .5rem;
+    font-weight: 900;
+    color: $white-main;
+    text-transform: uppercase;
   }
 
 }

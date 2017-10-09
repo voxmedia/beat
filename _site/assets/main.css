@@ -506,8 +506,13 @@ table {
   -webkit-animation: example 30s linear 2s infinite;
           animation: example 30s linear 2s infinite; }
 
-.c-nav a {
-  margin-left: .5rem; }
+.c-nav {
+  font-family: "nudista-web", sans-serif; }
+  .c-nav a {
+    margin-left: .5rem;
+    font-weight: 900;
+    color: #ffffff;
+    text-transform: uppercase; }
 
 .c-header {
   position: fixed;
@@ -522,13 +527,7 @@ table {
   display: flex;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
-          justify-content: center;
-  margin-right: 1rem;
-  margin-left: 1rem; }
-  @media screen and (min-width: 1132px) {
-    .c-header {
-      margin-right: 0rem;
-      margin-left: 0rem; } }
+          justify-content: center; }
   .c-header .header-container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -603,12 +602,10 @@ table {
         -ms-flex-pack: justify;
             justify-content: space-between; }
 
-.c-post--list {
+.c-post--intro {
   min-height: 100vh;
-  overflow-y: hidden;
-  position: relative;
-  padding-bottom: 10vw; }
-  .c-post--list:nth-child(1):before {
+  position: relative; }
+  .c-post--intro:before {
     content: "";
     height: 100vw;
     width: 250vw;
@@ -618,34 +615,72 @@ table {
     background-size: 43%;
     background-position: -44vw 26vw;
     position: absolute;
-    top: -13.5vw;
+    top: 0vw;
     left: 50vw;
     z-index: -1;
     -webkit-transform: skew(54deg);
             transform: skew(54deg); }
+    @media screen and (min-width: 1132px) {
+      .c-post--intro:before {
+        top: -13.5vw; } }
+
+.c-post--list {
+  padding-top: 100px;
+  min-height: 100vh;
+  overflow-y: hidden;
+  position: relative;
+  padding: 0 1rem;
+  padding-bottom: 10vw; }
+  @media screen and (min-width: 1132px) {
+    .c-post--list {
+      padding: 0 0; } }
   .c-post--list p {
     font-family: 'Source Code Pro', monospace;
     max-width: 425px;
     color: #ffffff;
-    margin: 8vw auto 0vw; }
+    margin: 0vw auto 2rem; }
+  .c-post--list h1, .c-post--list h2, .c-post--list h3,
+  .c-post--list h4, .c-post--list h5, .c-post--list h6 {
+    color: #ffffff;
+    max-width: 425px;
+    margin: 0vw auto 1rem; }
+  .c-post--list break {
+    display: block;
+    margin-bottom: 6rem; }
+  .c-post--list ul {
+    max-width: 425px;
+    color: #ffffff;
+    margin: 0vw auto 2rem; }
+    .c-post--list ul li p {
+      margin: 0vw auto 1rem; }
 
 .c-post {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem; }
   .c-post-tag-left, .c-post-tag-right {
     position: absolute;
-    top: 20vw;
+    top: 55vw;
     font-weight: 900;
-    font-size: 1.5vw; }
+    font-size: 3.5vw; }
+    @media screen and (min-width: 1132px) {
+      .c-post-tag-left, .c-post-tag-right {
+        top: 35vw;
+        font-size: 1.5vw; } }
   .c-post-tag-left {
-    left: 0;
+    left: -5vw;
     -webkit-transform: rotate(-90deg);
             transform: rotate(-90deg);
     color: #ffffff; }
+    @media screen and (min-width: 1132px) {
+      .c-post-tag-left {
+        left: 0; } }
   .c-post-tag-right {
-    right: 0;
+    right: -6vw;
     -webkit-transform: rotate(90deg);
             transform: rotate(90deg); }
+    @media screen and (min-width: 1132px) {
+      .c-post-tag-right {
+        right: 0; } }
 
 .c-seal {
   position: absolute;
@@ -672,7 +707,7 @@ table {
       margin-bottom: 1vw; }
 
 .c-about-main {
-  margin-top: 15vw;
+  margin-top: 33vw;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -684,13 +719,19 @@ table {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center; }
+  @media screen and (min-width: 1132px) {
+    .c-about-main {
+      margin-top: 15vw; } }
   .c-about-main a {
     text-transform: uppercase;
     font-weight: 900;
     color: #ffffff;
-    font-size: 5vw;
+    font-size: 13vw;
     position: relative;
     z-index: 1; }
+    @media screen and (min-width: 1132px) {
+      .c-about-main a {
+        font-size: 5vw; } }
     .c-about-main a:before {
       content: "";
       width: 100%;

@@ -4,28 +4,54 @@ date: 2017-10-02 12:00:00
 layout: page
 ---
 
-<div class="c-beat-logo">
-  {% include svgs/vox-logo.html %}
-  {% include svgs/beat-logo.html %}
-</div>
+# What is BEAT
+**BEAT** is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.
 
-<div class="c-seal">
-  {% include svgs/seal.html %}
-</div>
+<break></break>
 
-<div class="c-about-main">
-  <a href="">sign up</a>
-  {% for post in site.posts reversed %}
-    <a class="nav-items" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-  {% endfor %}
-</div>
+# How this works
+Part choose your own adventure, part curated experience; throw it in an inspiring space and you get BEAT. A day and a half of hands-on sensory experiences mixed with inspiring talks from outside guests, stories from team members, one-on-ones with leadership and casual opportunities to connect. We, as a team, will curate the entire agenda together over the next couple of months.
 
-<div class="c-post-tag-left">
-  VOX MEDIA
-</div>
+<break></break>
 
-<div class="c-post-tag-right">
-  JANUARY 2017
-</div>
+# Timeline
+### October/November
+1) Make sure you register for the event, book your travel and book your stay at the hotel. Details on that below.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ultricies sapien ac lacus tempus ullamcorper. Aliquam erat volutpat. Nulla facilisis, nisi nec sodales euismod, nulla nunc scelerisque elit, in sollicitudin sem libero ac risus. Pellentesque id dolor dignissim, sagittis augue a, posuere libero. Nulla facilisi. Ut bibendum, velit at eleifend sollicitudin, mi nulla blandit turpis, a tempor massa nibh eu nibh. In hac habitasse platea dictumst. Quisque at posuere nisi. Suspendisse hendrerit vestibulum sem ac consectetur. Donec feugiat bibendum libero, et mollis ex tempor ut. Nunc ipsum metus, consectetur sed viverra a, pulvinar sit amet turpis. Donec lacus eros, molestie sed dictum vitae, vulputate ac ante. Proin sed placerat ipsum. Nulla dolor metus, sodales eu aliquet eu, ultricies eget ex. Vestibulum tempor interdum risus, euismod auctor velit tincidunt sit amet.
+2) Start to think about how you’ll contribute. What do you want to show, share, ask, tell, document, explore, or preserve?
+
+3) Once you’ve thought about it and have an idea (or two or three), use the curate section
+
+Then begin to suggest your contributions to your team? What do you want to show, share, ask, tell, document, explore, or preserve? Once you’ve thought about it, use the Curate section on the site to propose a workshop, sign up for a storytime slot, nominate a +1 guest, or make a “special request”.
+
+By November, a schedule will start to evolve, speakers will be invited, workshop hosts will be notified, and the site will be updated.
+
+<break></break>
+
+# Logistics
+### When is BEAT
+January 25th - 26th
+
+* Wednesday January 24th: check-in for out of towners
+
+* Thursday January 25th: 9am - 5pm & evening dinner/activities
+
+* Friday January 26th: 9am - 3pm
+
+### Where is BEAT
+The Line Hotel | 1770 Euclid St NW, Washington, DC 20009 (Adams Morgan neighborhood)
+
+### Meals at BEAT
+All meals will be catered by the Line Hotel and will incorporate dietary requests and preferences. The food and beverage programs are run by Spike Gjerde, Corey Polyoka, Todd Thrasher and  Erik Bruner-Yang. I think we’ll eat and drink okay.
+
+We will have a team dinner on Thursday evening that will finish by 9pm.
+
+### Travel & Board at BEAT
+If you are traveling to D.C. please use PRO750 when booking via Egencia.
+If you plan to drive, please mention that in registration and include the requested information.
+Please book your hotel room on the registration page using the booking link provided. If you are willing and/or interested in rooming with someone, please indicate that in the booking link.
+
+If you live in DC or the great DMV area, staying at the hotel is optional. We are happy to reimburse your travel expenses whether they are bus, metro, taxi or parking expenses should you forgo staying with us.
+
+<break></break>
+
