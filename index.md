@@ -12,7 +12,6 @@ layout: home
   </div>
 
   <div class="c-about-main">
-    <a href="">sign up</a>
     {% for post in site.posts reversed %}
       <a class="nav-items" href="#{{ post.title | escape }}">{{ post.title | escape }}</a>
     {% endfor %}
