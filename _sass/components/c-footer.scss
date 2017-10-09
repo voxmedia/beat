@@ -8,16 +8,21 @@
   padding: 2vw 0;
   position: relative;
 
-  .c-footer-charm {
-    position: absolute;
-    top: -1.75vw;
-    left: 20vw;
-    transform: scale(1.5);
-  }
-
   @include media-query {
     padding-right: 0rem;
     padding-left: 0rem;
+  }
+
+  .c-footer-charm {
+    position: absolute;
+    top: -5.75vw;
+    left: 6vw;
+    transform: scale(1.5);
+
+    @include media-query {
+      top: -1.75vw;
+      left: 20vw;
+    }
   }
 
   .footer-container {
@@ -26,6 +31,16 @@
     justify-content: space-between;
 
     @extend %wrapper;
+  }
+
+  p {
+    max-width: 215px;
+    margin-left: 3vw;
+
+    @include media-query {
+      max-width: 100%;
+      margin-left: 0vw;
+    }
   }
 
   a {

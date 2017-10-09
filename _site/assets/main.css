@@ -581,16 +581,20 @@ table {
   font-family: "Source Code Pro", monospace;
   padding: 2vw 0;
   position: relative; }
-  .c-footer .c-footer-charm {
-    position: absolute;
-    top: -1.75vw;
-    left: 20vw;
-    -webkit-transform: scale(1.5);
-            transform: scale(1.5); }
   @media screen and (min-width: 1132px) {
     .c-footer {
       padding-right: 0rem;
       padding-left: 0rem; } }
+  .c-footer .c-footer-charm {
+    position: absolute;
+    top: -5.75vw;
+    left: 6vw;
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5); }
+    @media screen and (min-width: 1132px) {
+      .c-footer .c-footer-charm {
+        top: -1.75vw;
+        left: 20vw; } }
   .c-footer .footer-container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -602,6 +606,13 @@ table {
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between; }
+  .c-footer p {
+    max-width: 215px;
+    margin-left: 3vw; }
+    @media screen and (min-width: 1132px) {
+      .c-footer p {
+        max-width: 100%;
+        margin-left: 0vw; } }
   .c-footer a {
     color: #ffffff;
     border-bottom: 1px solid #ffffff;
@@ -719,9 +730,11 @@ table {
   position: absolute;
   top: 13vw;
   left: 59vw;
-  width: 7vw; }
+  width: 7vw;
+  height: 7vw; }
   .c-seal svg {
-    width: 100%; }
+    width: 100%;
+    height: 100%; }
 
 .c-beat-logo {
   display: -webkit-box;
@@ -754,7 +767,7 @@ table {
           align-items: center; }
   @media screen and (min-width: 1132px) {
     .c-about-main {
-      margin-top: 15vw; } }
+      margin-top: 10vw; } }
   .c-about-main a {
     text-transform: uppercase;
     font-weight: 900;
@@ -782,12 +795,27 @@ table {
   position: relative;
   padding-bottom: 80%;
   height: 0;
-  overflow: hidden;
   margin: 0 auto;
   margin-bottom: 2rem;
   -webkit-filter: grayscale(50%);
           filter: grayscale(50%);
-  max-width: 100%; }
+  max-width: 90%; }
+  @media screen and (min-width: 1132px) {
+    .google-maps {
+      max-width: 100%; } }
+  .google-maps:before {
+    content: "";
+    display: block;
+    border: 3px solid #ffffff;
+    position: relative;
+    height: 73.5vw;
+    width: 100%;
+    -webkit-transform: translate(10px, 10px);
+            transform: translate(10px, 10px);
+    z-index: -1; }
+    @media screen and (min-width: 1132px) {
+      .google-maps:before {
+        height: 29.5vw; } }
   @media screen and (min-width: 1132px) {
     .google-maps {
       padding-bottom: 30%;
