@@ -24,15 +24,15 @@
 }
 
 .c-post--list {
-  padding-top: 100px;
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
   padding: 0 1rem;
   padding-bottom: 10vw;
+  padding-top: 100px;
 
   @include media-query {
-    padding: 0 0;
+
   }
 
   p {
@@ -40,6 +40,17 @@
     max-width: $line-width;
     color: $white-main;
     margin: 0vw auto 2rem;
+    line-height: 1.5em;
+
+    a {
+      color: $white-main;
+      border-bottom: 1px solid $white-main;
+      transition: opacity $transition-time;
+
+      &:hover {
+        opacity: .8;
+      }
+    }
   }
 
   h1, h2, h3,
@@ -80,7 +91,7 @@
       font-size: 3.5vw;
 
       @include media-query {
-        top: 35vw;
+        top: 27vw;
         font-size: 1.5vw;
       }
     }
@@ -176,5 +187,30 @@
         height: 3vw;
       }
     }
+  }
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 80%;
+  height: 0;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  filter: grayscale(50%);
+
+  max-width: 100%;
+
+  @include media-query {
+    padding-bottom: 30%;
+    max-width: 45%;
+  }
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
   }
 }

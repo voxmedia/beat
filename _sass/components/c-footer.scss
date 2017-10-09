@@ -29,9 +29,12 @@
   }
 
   a {
-    color: #969696;
+    color: $white-main;
+    border-bottom: 1px solid $white-main;
+    transition: opacity $transition-time;
+
     &:hover {
-      color: #e6e6e6;
+      opacity: .8;
     }
   }
 }
