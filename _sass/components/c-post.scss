@@ -1,32 +1,68 @@
+.c-post--intro {
+  min-height: 100vh;
+  position: relative;
+
+  &:before {
+    content: "";
+    height: 100vw;
+    width: 250vw;
+    background: $grey-main;
+    background-image: url('/images/shield-outline.svg');
+    background-repeat: no-repeat;
+    background-size: 43%;
+    background-position: -44vw 26vw;
+    position: absolute;
+    top: 0vw;
+    left: 50vw;
+    z-index: -1;
+    transform: skew(54deg);
+
+    @include media-query {
+      top: -13.5vw;
+    }
+  }
+}
+
 .c-post--list {
+  padding-top: 100px;
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
+  padding: 0 1rem;
   padding-bottom: 10vw;
 
-  &:nth-child(1) {
-    &:before {
-      content: "";
-      height: 100vw;
-      width: 250vw;
-      background: $grey-main;
-      background-image: url('/images/shield-outline.svg');
-      background-repeat: no-repeat;
-      background-size: 43%;
-      background-position: -44vw 26vw;
-      position: absolute;
-      top: -13.5vw;
-      left: 50vw;
-      z-index: -1;
-      transform: skew(54deg);
-    }
+  @include media-query {
+    padding: 0 0;
   }
 
   p {
     font-family: 'Source Code Pro', monospace;
-    max-width: 425px;
+    max-width: $line-width;
     color: $white-main;
-    margin: 8vw auto 0vw;
+    margin: 0vw auto 2rem;
+  }
+
+  h1, h2, h3,
+  h4, h5, h6 {
+    color: $white-main;
+    max-width: $line-width;
+    margin: 0vw auto 1rem;
+  }
+
+  break {
+    display: block;
+    margin-bottom: 6rem;
+  }
+
+  ul {
+    max-width: $line-width;
+    color: $white-main;
+    margin: 0vw auto 2rem;
+    li {
+      p {
+        margin: 0vw auto 1rem;
+      }
+    }
   }
 }
 
@@ -39,19 +75,32 @@
     &-left,
     &-right {
       position: absolute;
-      top: 20vw;
+      top: 55vw;
       font-weight: 900;
-      font-size: 1.5vw;
+      font-size: 3.5vw;
+
+      @include media-query {
+        top: 35vw;
+        font-size: 1.5vw;
+      }
     }
 
     &-left {
-      left: 0;
+      left: -5vw;
       transform: rotate(-90deg);
       color: $white-main;
+
+      @include media-query {
+        left: 0;
+      }
     }
     &-right {
-      right: 0;
+      right: -6vw;
       transform: rotate(90deg);
+
+      @include media-query {
+        right: 0;
+      }
     }
   }
 }
@@ -89,19 +138,27 @@
 }
 
 .c-about-main {
-  margin-top: 15vw;
+  margin-top: 33vw;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
 
+  @include media-query {
+    margin-top: 15vw;
+  }
+
   a {
     text-transform: uppercase;
     font-weight: 900;
     color: $white-main;
-    font-size: 5vw;
+    font-size: 13vw;
     position: relative;
     z-index: 1;
+
+    @include media-query {
+      font-size: 5vw;
+    }
 
     &:before {
       content: "";

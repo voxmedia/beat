@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 {% for post in site.posts reversed %}
-  <div class="c-post--list">
+  <div class="c-post--list" id="{{ post.title | escape }}">
 
     <!-- <img src="{{ site.baseurl }}/images/{{ post.image }}"> -->
 
