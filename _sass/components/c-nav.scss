@@ -1,5 +1,8 @@
 .c-nav {
   font-family: $base-font-family;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 
   a {
     margin-left: .5rem;
