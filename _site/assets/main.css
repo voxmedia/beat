@@ -550,7 +550,11 @@ table {
         -ms-flex-align: center;
             align-items: center;
     padding-top: 1.25rem;
-    padding-bottom: 1.25rem; }
+    padding-bottom: 1.25rem;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    width: 100%; }
   .c-header.active {
     visibility: visible;
     opacity: 1; }
@@ -653,7 +657,7 @@ table {
     max-width: 425px;
     color: #ffffff;
     margin: 0vw auto 2rem;
-    line-height: 1.5em; }
+    line-height: 1.5rem; }
     .c-post--list p a {
       color: #ffffff;
       border-bottom: 1px solid #ffffff;
