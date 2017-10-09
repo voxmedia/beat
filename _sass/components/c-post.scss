@@ -4,13 +4,13 @@
 
   &:before {
     content: "";
-    height: 100vw;
+    height: 130vw;
     width: 250vw;
     background: $grey-main;
     background-image: url('/images/shield-outline.svg');
     background-repeat: no-repeat;
     background-size: 43%;
-    background-position: -44vw 26vw;
+    background-position: -39vw 37vw;
     position: absolute;
     top: 0vw;
     left: 50vw;
@@ -18,6 +18,8 @@
     transform: skew(54deg);
 
     @include media-query {
+      height: 100vw;
+      background-position: -44vw 26vw;
       top: -13.5vw;
     }
   }
@@ -118,10 +120,10 @@
 
 .c-seal {
   position: absolute;
-  top: 19vw;
-  left: 66vw;
-  width: 9vw;
-  height: 9vw;
+  top: 22vw;
+  left: 69vw;
+  width: 11vw;
+  height: 11vw;
 
   @include media-query {
     top: 13vw;
@@ -141,7 +143,7 @@
   flex-direction: column;
 
   margin-top: 3vw;
-  height: 20vw;
+  height: 24vw;
 
   @include media-query {
     height: 12vw;

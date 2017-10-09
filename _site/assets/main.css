@@ -650,13 +650,13 @@ p + ul {
   position: relative; }
   .c-post--intro:before {
     content: "";
-    height: 100vw;
+    height: 130vw;
     width: 250vw;
     background: #e6e6e6;
     background-image: url("/images/shield-outline.svg");
     background-repeat: no-repeat;
     background-size: 43%;
-    background-position: -44vw 26vw;
+    background-position: -39vw 37vw;
     position: absolute;
     top: 0vw;
     left: 50vw;
@@ -665,6 +665,8 @@ p + ul {
             transform: skew(54deg); }
     @media screen and (min-width: 1132px) {
       .c-post--intro:before {
+        height: 100vw;
+        background-position: -44vw 26vw;
         top: -13.5vw; } }
 
 .c-post--list {
@@ -732,10 +734,10 @@ p + ul {
 
 .c-seal {
   position: absolute;
-  top: 19vw;
-  left: 66vw;
-  width: 9vw;
-  height: 9vw; }
+  top: 22vw;
+  left: 69vw;
+  width: 11vw;
+  height: 11vw; }
   @media screen and (min-width: 1132px) {
     .c-seal {
       top: 13vw;
@@ -755,7 +757,7 @@ p + ul {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-top: 3vw;
-  height: 20vw; }
+  height: 24vw; }
   @media screen and (min-width: 1132px) {
     .c-beat-logo {
       height: 12vw; } }
