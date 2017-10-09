@@ -38,7 +38,8 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
+  font-size: 3em;
+  text-transform: uppercase;
   margin: 0.67em 0; }
 
 /* Grouping content
@@ -482,6 +483,9 @@ table {
   table tr:hover td {
     background: #e8e8e8; }
 
+p + ul {
+  margin: -1rem auto 2rem !important; }
+
 .c-header .header-container, .c-footer .footer-container, .c-body .body-container {
   max-width: 100%; }
 
@@ -672,7 +676,7 @@ table {
   padding-top: 100px; }
   .c-post--list p {
     font-family: 'Source Code Pro', monospace;
-    max-width: 425px;
+    max-width: 465px;
     color: #ffffff;
     margin: 0vw auto 2rem;
     line-height: 1.5rem; }
@@ -686,13 +690,13 @@ table {
   .c-post--list h1, .c-post--list h2, .c-post--list h3,
   .c-post--list h4, .c-post--list h5, .c-post--list h6 {
     color: #ffffff;
-    max-width: 425px;
+    max-width: 465px;
     margin: 0vw auto 1rem; }
   .c-post--list break {
     display: block;
     margin-bottom: 6rem; }
   .c-post--list ul {
-    max-width: 425px;
+    max-width: 465px;
     color: #ffffff;
     margin: 0vw auto 2rem; }
     .c-post--list ul li p {
@@ -728,10 +732,16 @@ table {
 
 .c-seal {
   position: absolute;
-  top: 13vw;
-  left: 59vw;
-  width: 7vw;
-  height: 7vw; }
+  top: 19vw;
+  left: 66vw;
+  width: 9vw;
+  height: 9vw; }
+  @media screen and (min-width: 1132px) {
+    .c-seal {
+      top: 13vw;
+      left: 59vw;
+      width: 7vw;
+      height: 7vw; } }
   .c-seal svg {
     width: 100%;
     height: 100%; }
@@ -745,7 +755,10 @@ table {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-top: 3vw;
-  height: 12vw; }
+  height: 20vw; }
+  @media screen and (min-width: 1132px) {
+    .c-beat-logo {
+      height: 12vw; } }
   .c-beat-logo svg {
     width: 100%; }
     .c-beat-logo svg:nth-child(1) {

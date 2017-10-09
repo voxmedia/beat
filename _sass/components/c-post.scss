@@ -118,10 +118,17 @@
 
 .c-seal {
   position: absolute;
-  top: 13vw;
-  left: 59vw;
-  width: 7vw;
-  height: 7vw;
+  top: 19vw;
+  left: 66vw;
+  width: 9vw;
+  height: 9vw;
+
+  @include media-query {
+    top: 13vw;
+    left: 59vw;
+    width: 7vw;
+    height: 7vw;
+  }
 
   svg {
     width: 100%;
@@ -134,7 +141,11 @@
   flex-direction: column;
 
   margin-top: 3vw;
-  height: 12vw;
+  height: 20vw;
+
+  @include media-query {
+    height: 12vw;
+  }
 
   svg {
     width: 100%;

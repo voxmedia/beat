@@ -139,6 +139,10 @@ table {
   }
 }
 
+p + ul {
+  margin: -1rem auto 2rem !important;
+}
+
 %wrapper {
   max-width: 100%;
 }
