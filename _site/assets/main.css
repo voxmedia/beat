@@ -512,7 +512,21 @@ table {
     margin-left: .5rem;
     font-weight: 900;
     color: #ffffff;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    position: relative;
+    z-index: 1; }
+    .c-nav a:before {
+      content: "";
+      width: 100%;
+      height: 0vw;
+      bottom: 2px;
+      background: black;
+      position: absolute;
+      z-index: -1;
+      -webkit-transition: all .3s;
+      transition: all .3s; }
+    .c-nav a:hover:before {
+      height: 10px; }
 
 .c-header {
   position: fixed;
@@ -578,9 +592,12 @@ table {
         -ms-flex-pack: justify;
             justify-content: space-between; }
   .c-footer a {
-    color: #969696; }
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+    -webkit-transition: opacity 0.25s;
+    transition: opacity 0.25s; }
     .c-footer a:hover {
-      color: #e6e6e6; }
+      opacity: .8; }
 
 .c-body {
   display: -webkit-box;
@@ -625,20 +642,25 @@ table {
         top: -13.5vw; } }
 
 .c-post--list {
-  padding-top: 100px;
   min-height: 100vh;
   overflow-y: hidden;
   position: relative;
   padding: 0 1rem;
-  padding-bottom: 10vw; }
-  @media screen and (min-width: 1132px) {
-    .c-post--list {
-      padding: 0 0; } }
+  padding-bottom: 10vw;
+  padding-top: 100px; }
   .c-post--list p {
     font-family: 'Source Code Pro', monospace;
     max-width: 425px;
     color: #ffffff;
-    margin: 0vw auto 2rem; }
+    margin: 0vw auto 2rem;
+    line-height: 1.5em; }
+    .c-post--list p a {
+      color: #ffffff;
+      border-bottom: 1px solid #ffffff;
+      -webkit-transition: opacity 0.25s;
+      transition: opacity 0.25s; }
+      .c-post--list p a:hover {
+        opacity: .8; }
   .c-post--list h1, .c-post--list h2, .c-post--list h3,
   .c-post--list h4, .c-post--list h5, .c-post--list h6 {
     color: #ffffff;
@@ -664,7 +686,7 @@ table {
     font-size: 3.5vw; }
     @media screen and (min-width: 1132px) {
       .c-post-tag-left, .c-post-tag-right {
-        top: 35vw;
+        top: 27vw;
         font-size: 1.5vw; } }
   .c-post-tag-left {
     left: -5vw;
@@ -744,3 +766,24 @@ table {
       transition: all .3s; }
     .c-about-main a:hover:before {
       height: 3vw; }
+
+.google-maps {
+  position: relative;
+  padding-bottom: 80%;
+  height: 0;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  -webkit-filter: grayscale(50%);
+          filter: grayscale(50%);
+  max-width: 100%; }
+  @media screen and (min-width: 1132px) {
+    .google-maps {
+      padding-bottom: 30%;
+      max-width: 45%; } }
+  .google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important; }
