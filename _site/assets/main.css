@@ -392,7 +392,9 @@ template {
 
 * {
   box-sizing: border-box;
-  font-smoothing: antialiased; }
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smooth: always; }
 
 html, body {
   overflow-x: hidden;
