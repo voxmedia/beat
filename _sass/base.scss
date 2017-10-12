@@ -18,73 +18,25 @@ body {
   position: relative;
   min-height: 100vh;
 
-  &.blue {
-    background: $blue-main;
-    .beat-fill {
-      fill: $blue-main;
-    }
-    .c-header {
-      background: $blue-main;
-    }
-  }
+  $colors:  blue, pink,
+            gold, green,
+            red, orange,
+            purple;
 
-  &.pink {
-    background: $pink-main;
-    .beat-fill {
-      fill: $pink-main;
-    }
-    .c-header {
-      background: $pink-main;
-    }
-  }
+  $val: $blue-main, $pink-main,
+        $gold-main, $green-main,
+        $red-main, $orange-main,
+        $purple-main;
 
-  &.gold {
-    background: $gold-main;
-    .beat-fill {
-      fill: $gold-main;
-    }
-    .c-header {
-      background: $gold-main;
-    }
-  }
-
-  &.green {
-    background: $green-main;
-    .beat-fill {
-      fill: $green-main;
-    }
-    .c-header {
-      background: $green-main;
-    }
-  }
-
-  &.red {
-    background: $red-main;
-    .beat-fill {
-      fill: $red-main;
-    }
-    .c-header {
-      background: $red-main;
-    }
-  }
-
-  &.orange {
-    background: $orange-main;
-    .beat-fill {
-      fill: $orange-main;
-    }
-    .c-header {
-      background: $orange-main;
-    }
-  }
-
-  &.purple {
-    background: $purple-main;
-    .beat-fill {
-      fill: $purple-main;
-    }
-    .c-header {
-      background: $purple-main;
+  @for $i from 1 through length($colors) {
+    &.#{nth($colors, $i)} {
+      background: nth($val, $i);
+      .beat-fill {
+        fill: #{nth($val, $i)};
+      }
+      .c-header {
+        background: #{nth($val, $i)};
+      }
     }
   }
 }
