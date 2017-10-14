@@ -21,10 +21,16 @@ $(function() {
 // color randomizer
 
 $(function() {
-    var classes = ["blue", "pink", "gold", "green", "red", "orange", "purple"];
+  var colors = ["#132ff4", "#F8ABAB", "#D6C028", "#6EB77F", "#BB3736", "#EE8022", "#66469C"];
 
-    $('body').addClass(classes[~~(Math.random()*classes.length)]);
+  document.body.style.setProperty('--color', colors[Math.floor(Math.random()*colors.length)]);
 });
+
+// $(function() {
+//   var colors = ["#132ff4", "#F8ABAB", "#D6C028", "#6EB77F", "#BB3736", "#EE8022", "#66469C"];
+
+//   document.body.style.setProperty('--color', colors[Math.floor(Math.random()*colors.length)]);
+// });
 
 // smooth scroll
 

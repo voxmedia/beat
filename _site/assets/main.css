@@ -406,49 +406,12 @@ body {
   font-weight: 400;
   line-height: 1.25;
   position: relative;
-  min-height: 100vh; }
-  body.blue {
-    background: #132ff4; }
-    body.blue .beat-fill {
-      fill: #132ff4; }
-    body.blue .c-header {
-      background: #132ff4; }
-  body.pink {
-    background: #F8ABAB; }
-    body.pink .beat-fill {
-      fill: #F8ABAB; }
-    body.pink .c-header {
-      background: #F8ABAB; }
-  body.gold {
-    background: #D6C028; }
-    body.gold .beat-fill {
-      fill: #D6C028; }
-    body.gold .c-header {
-      background: #D6C028; }
-  body.green {
-    background: #6EB77F; }
-    body.green .beat-fill {
-      fill: #6EB77F; }
-    body.green .c-header {
-      background: #6EB77F; }
-  body.red {
-    background: #BB3736; }
-    body.red .beat-fill {
-      fill: #BB3736; }
-    body.red .c-header {
-      background: #BB3736; }
-  body.orange {
-    background: #EE8022; }
-    body.orange .beat-fill {
-      fill: #EE8022; }
-    body.orange .c-header {
-      background: #EE8022; }
-  body.purple {
-    background: #66469C; }
-    body.purple .beat-fill {
-      fill: #66469C; }
-    body.purple .c-header {
-      background: #66469C; }
+  min-height: 100vh;
+  background: var(--color); }
+  body .beat-fill {
+    fill: var(--color); }
+  body .c-header {
+    background: var(--color); }
 
 img,
 video {
