@@ -1,8 +1,0 @@
----
-title: register
-date: 2017-10-05 12:00:00
-layout: page
----
-
-# Register
-Something tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk.

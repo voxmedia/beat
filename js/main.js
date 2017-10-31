@@ -47,3 +47,21 @@ $(function() {
     }
   });
 });
+
+// toggles participents
+
+$('#logistics').click(function () {
+  $(this).addClass("active");
+  $('#participant').removeClass("active");
+  $('#part').removeClass("active");
+  $('#section').addClass("active");
+  $('#log').addClass("active");
+});
+
+$('#participant').click(function () {
+  $(this).addClass("active");
+  $('#logistics').removeClass("active");
+  $('#log').removeClass("active");
+  $('#section').addClass("active");
+  $('#part').addClass("active");
+});

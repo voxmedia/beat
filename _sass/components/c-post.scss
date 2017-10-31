@@ -224,19 +224,19 @@
     display: block;
     border: 3px solid $white-main;
     position: relative;
-    height: 73.5vw;
+    height: 77.5vw;
     width: 100%;
     transform: translate(10px, 10px);
     z-index: -1;
 
     @include media-query {
-      height: 29.5vw;
+      height: 375px;
     }
   }
 
   @include media-query {
-    padding-bottom: 30%;
-    max-width: 45%;
+    // padding-bottom: 30%;
+    // max-width: 45%;
   }
 
   iframe {

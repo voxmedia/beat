@@ -97,6 +97,16 @@ p + ul {
   margin: -1rem auto 2rem !important;
 }
 
+li {
+  font-family: $copy-font-family;
+  margin-bottom: 1vw;
+}
+
+strong {
+  font-family: $copy-font-family;
+  font-weight: 900;
+}
+
 %wrapper {
   max-width: 100%;
 }
@@ -110,12 +120,3 @@ p + ul {
   transform-origin: center;
   animation: example 30s linear 2s infinite;
 }
-
-
-
-
-
-
-
-
-

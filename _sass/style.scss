@@ -16,7 +16,7 @@ $background-color: #132ff4 !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-main:        #e6e6e6 !default;
-$black-main:        #000000 !default;
+$black-main:       #000000 !default;
 $white-main:       #ffffff !default;
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -57,5 +57,6 @@ $transition-time:  0.25s;
   "components/c-header",
   "components/c-footer",
   "components/c-body",
-  "components/c-post"
+  "components/c-post",
+  "components/c-section"
 ;

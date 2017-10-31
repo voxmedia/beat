@@ -4,5 +4,6 @@ date: 2017-10-06 12:00:00
 layout: page
 ---
 
-# Curate
-Something tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk tktkt tktk.
+<div class="section">
+  <a class="big-links" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">See Trello</a>
+</div>

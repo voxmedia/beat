@@ -1,0 +1,47 @@
+#logistics,
+#participant {
+  display: none;
+}
+
+@include media-query {
+  #logistics,
+  #participant {
+    display: inline-block;
+  }
+
+  .section {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 8vw;
+    max-height: 50vh;
+
+    &.active {
+      max-height: 100%;
+    }
+
+    .Logistics {
+      visibility: hidden;
+      opacity: 0;
+      transition: all $transition-time;
+      transform: translateX(0%);
+      &.active {
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(50%);
+      }
+    }
+
+    .participant {
+      visibility: hidden;
+      opacity: 0;
+      transition: all $transition-time;
+      transform: translateX(0%);
+      &.active {
+        opacity: 1;
+        visibility: visible;
+        transform: translateX(-50%);
+      }
+    }
+  }
+}
