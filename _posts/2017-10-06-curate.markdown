@@ -5,5 +5,5 @@ layout: page
 ---
 
 <div class="section">
-  <a class="big-links" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">See Trello</a>
+  <a class="big-links" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Curate</a>
 </div>
