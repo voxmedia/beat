@@ -720,7 +720,7 @@ strong {
     content: "";
     height: 130vw;
     width: 250vw;
-    background: #e6e6e6;
+    background: #d9d9d9;
     background-image: url("/images/shield-outline.svg");
     background-repeat: no-repeat;
     background-size: 43%;
@@ -739,7 +739,6 @@ strong {
 
 .c-post--list {
   min-height: 100vh;
-  overflow-y: hidden;
   position: relative;
   padding: 0 1rem;
   padding-bottom: 10vw;
@@ -923,8 +922,7 @@ strong {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    margin-top: 8vw;
-    max-height: 50vh; }
+    margin-top: 5vw; }
     .section.active {
       max-height: 100%; }
     .section .Logistics {
@@ -933,7 +931,10 @@ strong {
       -webkit-transition: all 0.25s;
       transition: all 0.25s;
       -webkit-transform: translateX(0%);
-              transform: translateX(0%); }
+              transform: translateX(0%);
+      max-height: 70vh;
+      overflow: scroll;
+      padding: 20px; }
       .section .Logistics.active {
         opacity: 1;
         visibility: visible;
@@ -945,9 +946,33 @@ strong {
       -webkit-transition: all 0.25s;
       transition: all 0.25s;
       -webkit-transform: translateX(0%);
-              transform: translateX(0%); }
+              transform: translateX(0%);
+      max-height: 70vh;
+      overflow: scroll;
+      padding: 20px; }
       .section .participant.active {
         opacity: 1;
         visibility: visible;
         -webkit-transform: translateX(-50%);
                 transform: translateX(-50%); } }
+#register:before {
+  content: "";
+  height: 130vw;
+  width: 250vw;
+  background-repeat: no-repeat;
+  background-size: 43%;
+  background-position: -39vw 37vw;
+  position: absolute;
+  top: 0vw;
+  left: 50vw;
+  z-index: -1;
+  -webkit-transform: skew(54deg);
+          transform: skew(54deg); }
+  @media screen and (min-width: 1132px) {
+    #register:before {
+      background: #d9d9d9;
+      height: 50vw;
+      background-position: -44vw 26vw;
+      top: -13.5vw;
+      -webkit-transform: translate(-50%, 10%) rotate(40deg);
+              transform: translate(-50%, 10%) rotate(40deg); } }

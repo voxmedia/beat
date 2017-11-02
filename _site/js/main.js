@@ -1,8 +1,8 @@
-// shows nave after landing page is scrolled
+// shows nav after landing page is scrolled
 
 $(function() {
 
-    var header = $("#c-header");
+    var $header = $("#c-header");
 
     $(window).scroll(function() {
 
@@ -10,9 +10,9 @@ $(function() {
         var windowSize = $(window).height();
 
         if (scroll >= windowSize) {
-            header.addClass("active");
+            $header.addClass("active");
         } else {
-            header.removeClass("active");
+            $header.removeClass("active");
         }
 
     });

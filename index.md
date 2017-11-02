@@ -8,7 +8,7 @@ layout: home
   </div>
 
   <div class="c-seal">
-    {% include svgs/seal.html %}
+    {% include svgs/vox-logo-new.html %}
   </div>
 
   <div class="c-about-main">

@@ -6,7 +6,7 @@
     content: "";
     height: 130vw;
     width: 250vw;
-    background: $grey-main;
+    background: darken($grey-main, 5%);
     background-image: url('/images/shield-outline.svg');
     background-repeat: no-repeat;
     background-size: 43%;
@@ -27,7 +27,6 @@
 
 .c-post--list {
   min-height: 100vh;
-  overflow-y: hidden;
   position: relative;
   padding: 0 1rem;
   padding-bottom: 10vw;
