@@ -9,10 +9,10 @@
         <div class="nav-items">
           <a href="/">Home</a>
           {% for post in site.posts reversed %}
-            <a class="nav-items active" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
+            <a class="" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
           {% endfor %}
+          <a class="" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Curate</a>
         </div>
-
       </nav>
     {% endif %}
   </div>
