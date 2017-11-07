@@ -6,7 +6,13 @@
 
     {% if page_paths %}
       <nav class="c-nav projects">
-        <div class="nav-items"><a href="/">{{ site.title | escape }}</a></div>
+        <div class="nav-items">
+          <a href="/">Home</a>
+          {% for post in site.posts reversed %}
+            <a class="nav-items active" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
+          {% endfor %}
+        </div>
+
       </nav>
     {% endif %}
   </div>

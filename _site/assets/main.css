@@ -540,6 +540,8 @@ strong {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center; }
+  .c-nav .nav-items {
+    width: 220px; }
   .c-nav a {
     margin-left: .5rem;
     font-weight: 900;
