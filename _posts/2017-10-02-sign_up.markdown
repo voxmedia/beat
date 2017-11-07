@@ -4,9 +4,14 @@ date: 2017-10-03 12:00:00
 layout: page
 ---
 
+<div style="height: 10vw;"></div>
+
 <div class="section">
   <a class="big-links" href="https://voxproduct.typeform.com/to/EGJWFB" target="_blank">sign up</a>
   <span class="big-links">/</span>
   <a class="big-links" href="http://bit.ly/2hM71DE" target="_blank">book hotel</a>
 </div>
 
+<section class="c-post--list">
+  {% include log.html %}
+</section>

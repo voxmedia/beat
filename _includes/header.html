@@ -1,4 +1,4 @@
-<header class="c-header" id="c-header" role="banner">
+<header class="c-header active" id="c-header" role="banner">
 
   <div class="header-container">
     {% assign default_paths = site.pages | map: "path" %}
@@ -6,9 +6,7 @@
 
     {% if page_paths %}
       <nav class="c-nav projects">
-        {% for post in site.posts reversed %}
-          <a class="nav-items active" href="#{{ post.title | escape }}">{{ post.title | escape }}</a>
-        {% endfor %}
+        <div class="nav-items"><a href="/">{{ site.title | escape }}</a></div>
       </nav>
     {% endif %}
   </div>

@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-02T17:01:46+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">curate</title><link href="http://localhost:4000/projects/curate.html" rel="alternate" type="text/html" title="curate" /><published>2017-10-06T12:00:00+00:00</published><updated>2017-10-06T12:00:00+00:00</updated><id>http://localhost:4000/projects/curate</id><content type="html" xml:base="http://localhost:4000/projects/curate.html">&lt;div class=&quot;section&quot;&gt;
-  &lt;a class=&quot;big-links&quot; href=&quot;https://trello.com/b/FIvvcEd4/beat-curation-board&quot; target=&quot;_blank&quot;&gt;Curate&lt;/a&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Curate</summary></entry><entry><title type="html">register</title><link href="http://localhost:4000/projects/sign_up.html" rel="alternate" type="text/html" title="register" /><published>2017-10-03T12:00:00+00:00</published><updated>2017-10-03T12:00:00+00:00</updated><id>http://localhost:4000/projects/sign_up</id><content type="html" xml:base="http://localhost:4000/projects/sign_up.html">&lt;div class=&quot;section&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-07T15:58:22+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">register</title><link href="http://localhost:4000/sign_up.html" rel="alternate" type="text/html" title="register" /><published>2017-10-03T12:00:00+00:00</published><updated>2017-10-03T12:00:00+00:00</updated><id>http://localhost:4000/sign_up</id><content type="html" xml:base="http://localhost:4000/sign_up.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
+
+&lt;div class=&quot;section&quot;&gt;
   &lt;a class=&quot;big-links&quot; href=&quot;https://voxproduct.typeform.com/to/EGJWFB&quot; target=&quot;_blank&quot;&gt;sign up&lt;/a&gt;
   &lt;span class=&quot;big-links&quot;&gt;/&lt;/span&gt;
   &lt;a class=&quot;big-links&quot; href=&quot;http://bit.ly/2hM71DE&quot; target=&quot;_blank&quot;&gt;book hotel&lt;/a&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">sign up / book hotel</summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/projects/about.html" rel="alternate" type="text/html" title="about" /><published>2017-10-02T12:00:00+00:00</published><updated>2017-10-02T12:00:00+00:00</updated><id>http://localhost:4000/projects/about</id><content type="html" xml:base="http://localhost:4000/projects/about.html">&lt;p&gt;&lt;h1&gt;What is BEAT&lt;/h1&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;BEAT&lt;/strong&gt; is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.&lt;/p&gt;
-
-&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
-
-&lt;break&gt;&lt;/break&gt;
-
-&lt;div class=&quot;section&quot;&gt;
-  &lt;span class=&quot;main-links&quot; id=&quot;logistics&quot; href=&quot;#&quot;&gt;Logistics&lt;/span&gt;
-  &lt;span class=&quot;main-links&quot;&gt;/&lt;/span&gt;
-  &lt;span class=&quot;main-links&quot; id=&quot;participant&quot; href=&quot;#&quot;&gt;Participant Guide&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;section&quot; id=&quot;section&quot;&gt;
-
+&lt;section class=&quot;c-post--list&quot;&gt;
   &lt;div class=&quot;Logistics&quot; id=&quot;log&quot;&gt;
 
   &lt;h2&gt;When is BEAT?&lt;/h2&gt;
@@ -36,8 +24,6 @@
 
   &lt;h2&gt;Where is BEAT&lt;/h2&gt;
   &lt;p&gt;&lt;a href=&quot;https://www.thelinehotel.com/dc&quot; target=&quot;_blank&quot;&gt;The Line Hotel&lt;/a&gt;&lt;/p&gt;
-
-  &lt;div class=&quot;google-maps&quot;&gt;&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.050122470822!2d-77.04426518435359!3d38.92283185304902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7d9797ec33b%3A0xa1ebb97abd1f0ad9!2s1770+Euclid+St+NW%2C+Washington%2C+DC+20009!5e0!3m2!1sen!2sus!4v1507570145880&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
   &lt;break&gt;&lt;/break&gt;
 
@@ -75,10 +61,20 @@
 
 &lt;/div&gt;
 
+&lt;/section&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/about.html" rel="alternate" type="text/html" title="about" /><published>2017-10-02T12:00:00+00:00</published><updated>2017-10-02T12:00:00+00:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 
+&lt;break&gt;&lt;/break&gt;
+
+&lt;div class=&quot;section&quot;&gt;
+  &lt;span class=&quot;heading-links&quot; id=&quot;participant&quot; href=&quot;#&quot;&gt;Participant Guide&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;section class=&quot;c-post--list&quot;&gt;
   &lt;div class=&quot;participant&quot; id=&quot;part&quot;&gt;
 
   &lt;h2&gt;What is BEAT?&lt;/h2&gt;
+  &lt;p&gt;&lt;strong&gt;BEAT&lt;/strong&gt; is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.&lt;/p&gt;
+
   &lt;p&gt;At its core, BEAT is an “unconference” in the sense that the content is decided by the participants. Topics may include industry related information, skill-building, and culture sharing. Formats include workshops, small conversations and storytelling/lightning talks. Additionally we’ll have some conversation from leadership and open office hours that you can book. We also want to welcome outside guest speakers, called “+1s”, to provide keynote speeches or workshops on topics you pick.&lt;/p&gt;
 
   &lt;break&gt;&lt;/break&gt;
@@ -127,5 +123,4 @@
 
 &lt;/div&gt;
 
-
-&lt;/div&gt;</content><author><name></name></author><summary type="html">What is BEAT BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</summary></entry></feed>
+&lt;/section&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>

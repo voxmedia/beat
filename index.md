@@ -13,8 +13,9 @@ layout: home
 
   <div class="c-about-main">
     {% for post in site.posts reversed %}
-      <a class="nav-items" href="#{{ post.title | escape }}">{{ post.title | escape }}</a>
+      <a class="nav-items" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
     {% endfor %}
+    <a class="nav-items" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Curate</a>
   </div>
 
   <div class="c-post-tag-left">
@@ -24,4 +25,8 @@ layout: home
   <div class="c-post-tag-right">
     JANUARY 2017
   </div>
+
+  <div style="height: 10vw;"></div>
+  <div style="height: 10vw;"></div>
+
 </div>

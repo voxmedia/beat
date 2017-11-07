@@ -17,6 +17,10 @@ body {
   line-height: $base-line-height;
   position: relative;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
 
   $colors:  blue, pink,
             gold, green,

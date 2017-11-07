@@ -3,15 +3,3 @@ layout: default
 ---
 
 {{ content }}
-
-{% for post in site.posts reversed %}
-  <div class="c-post--list" id="{{ post.title | escape }}">
-
-    <!-- <img src="{{ site.baseurl }}/images/{{ post.image }}"> -->
-
-    {{ post.content }}
-
-  </div>
-{% endfor %}
-
-<!-- p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p -->

@@ -5,7 +5,9 @@
 
   <body class="body">
 
-    {% include header.html %}
+    {% if page.title != null %}
+      {% include header.html %}
+    {% endif %}
 
     <main class="c-body" aria-label="Content">
       <div class="body-container">

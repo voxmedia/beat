@@ -3,23 +3,23 @@
 
 // shows nav after landing page is scrolled
 
-$(function() {
+// $(function() {
 
-    var $header = $("#c-header");
+//     var $header = $("#c-header");
 
-    $(window).scroll(function() {
+//     $(window).scroll(function() {
 
-        var scroll = $(window).scrollTop();
-        var windowSize = $(window).height();
+//         var scroll = $(window).scrollTop();
+//         var windowSize = $(window).height();
 
-        if (scroll >= windowSize) {
-            $header.addClass("active");
-        } else {
-            $header.removeClass("active");
-        }
+//         if (scroll >= windowSize) {
+//             $header.addClass("active");
+//         } else {
+//             $header.removeClass("active");
+//         }
 
-    });
-});
+//     });
+// });
 
 // color randomizer
 
