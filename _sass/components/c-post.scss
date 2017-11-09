@@ -42,15 +42,15 @@
     color: $white-main;
     margin: 0vw auto 2rem;
     line-height: 1.5rem;
+  }
 
-    a {
-      color: $white-main;
-      border-bottom: 1px solid $white-main;
-      transition: opacity $transition-time;
+  a {
+    color: $white-main;
+    border-bottom: 1px solid $white-main;
+    transition: opacity $transition-time;
 
-      &:hover {
-        opacity: .8;
-      }
+    &:hover {
+      opacity: .8;
     }
   }
 
@@ -66,7 +66,7 @@
     margin-bottom: 6rem;
   }
 
-  ul {
+  ul,ol {
     max-width: $line-width;
     color: $white-main;
     margin: 0vw auto 2rem;
