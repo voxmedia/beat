@@ -1,0 +1,12 @@
+/Users/joshlaincz/.rbenv/versions/2.2.2/bin/ruby -r ./siteconf20181213-20431-b9yfap.rb extconf.rb --with-cppflags=-I/usr/local/opt/openssl/include --with-ldflags=-L/usr/local/opt/openssl/lib
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20181213-20431-emzo5x

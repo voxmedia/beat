@@ -1,19 +1,36 @@
 <header class="c-header active" id="c-header" role="banner">
 
-  <div class="header-container">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
+  {% assign default_paths = site.pages | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
+  <div class="c-header-inner">
+    <div class="c-nav-logos">
+      <a href="/">
+      {% include svgs/beat-logo.html %}
+      {% include svgs/vox-logo-new.html %}
+      </a>
+    </div>
+    <div class="hamburger">
+      <div class="hamburger-box">
+        <div class="hamburger-inner"></div>
+      </div>
+    </div>
 
     {% if page_paths %}
-      <nav class="c-nav projects">
-        <div class="nav-items">
-          <a href="/">Home</a>
-          {% for post in site.posts reversed %}
-            <a class="" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
-          {% endfor %}
-          <a class="" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Curate</a>
-        </div>
-      </nav>
+    <nav class="c-nav projects">
+      <div class="nav-items">
+        <a href="/">Home</a>
+        {% for post in site.posts reversed %}
+          <a class="" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
+        {% endfor %}
+        <a class="" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Submit an Idea</a>
+        <a class="" href="#" target="_blank">Sign Up</a>
+        <a class="" href="#" target="_blank">Book Hotel</a>
+      </div>
+    </nav>
     {% endif %}
+
   </div>
+
 </header>
+
+

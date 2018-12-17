@@ -65,3 +65,17 @@ $('#participant').click(function () {
   $('#section').addClass("active");
   $('#part').addClass("active");
 });
+
+$('.hamburger').click(function () {
+  $('.c-nav').toggleClass('active');
+  $('.hamburger-inner').toggleClass('active');
+});
+
+$(document).keyup(function(e) {
+   if (e.key === "Escape") { 
+    $('.c-nav').removeClass('active');
+    $('.hamburger-inner').removeClass('active');
+  }
+});
+
+

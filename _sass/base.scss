@@ -38,7 +38,8 @@ body {
       .beat-fill {
         fill: #{nth($val, $i)};
       }
-      .c-header {
+      .c-header,
+      .c-nav {
         background: #{nth($val, $i)};
       }
     }
@@ -123,4 +124,34 @@ strong {
 #moving-seal {
   transform-origin: center;
   animation: example 30s linear 2s infinite;
+}
+
+.sign-up-links {
+  max-width: 465px;
+  margin: 0 auto;
+  text-align: center;
+  a {
+    display: inline-block;
+    font-size: 1.5em;
+    margin: 0 20px 1.5em 20px;
+    border: none !important;
+    position: relative;
+    &:before {
+      content: "";
+      left: 0;
+      right: 0;
+      height: 0vw;
+      bottom: 2px;
+      background: black;
+      position: absolute;
+      z-index: -1;
+      transition: all .3s;
+    }
+    &:hover {
+      opacity: 1 !important;
+    }
+    &:hover:before {
+      height: 50%;
+    }
+  }
 }

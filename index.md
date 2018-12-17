@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <div class="c-post--intro">
   <div class="c-beat-logo">
     {% include svgs/vox-logo.html %}
@@ -15,7 +16,7 @@ layout: home
     {% for post in site.posts reversed %}
       <a class="nav-items" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
     {% endfor %}
-    <a class="nav-items" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Curate</a>
+    <a class="nav-items" href="https://trello.com/b/FIvvcEd4/beat-curation-board" target="_blank">Submit an Idea</a>
   </div>
 
   <div class="c-post-tag-left">
@@ -23,7 +24,7 @@ layout: home
   </div>
 
   <div class="c-post-tag-right">
-    JANUARY 2017
+    FEBRUARY 2019
   </div>
 
   <div style="height: 10vw;"></div>
