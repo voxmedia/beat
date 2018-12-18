@@ -649,6 +649,7 @@ strong {
     opacity: 1; }
   .c-header .hamburger {
     position: absolute;
+    top: 7px;
     right: 0;
     display: inline-block;
     padding: 15px;
