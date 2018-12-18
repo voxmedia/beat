@@ -177,13 +177,9 @@
     text-transform: uppercase;
     font-weight: 900;
     color: $white-main;
-    font-size: 13vw;
+    font-size: calc(18px + 3vw);
     position: relative;
     z-index: 1;
-
-    @include media-query {
-      font-size: 5vw;
-    }
 
     &:before {
       content: "";
@@ -198,7 +194,7 @@
 
     &:hover {
       &:before {
-        height: 3vw;
+        height: 50%;
       }
     }
   }
