@@ -23,6 +23,13 @@
       top: -1.75vw;
       left: 20vw;
     }
+    #Fill-3 {
+      transition: all ease-in-out 0.3s;
+    }
+    &:hover #Fill-3 {
+      transform: rotate(180deg);
+      transform-origin: 12px 14px;
+    }
   }
 
   .footer-container {

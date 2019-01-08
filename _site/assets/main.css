@@ -785,6 +785,14 @@ strong {
       .c-footer .c-footer-charm {
         top: -1.75vw;
         left: 20vw; } }
+    .c-footer .c-footer-charm #Fill-3 {
+      -webkit-transition: all ease-in-out 0.3s;
+      transition: all ease-in-out 0.3s; }
+    .c-footer .c-footer-charm:hover #Fill-3 {
+      -webkit-transform: rotate(180deg);
+              transform: rotate(180deg);
+      -webkit-transform-origin: 12px 14px;
+              transform-origin: 12px 14px; }
   .c-footer .footer-container {
     display: -webkit-box;
     display: -ms-flexbox;
