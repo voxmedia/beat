@@ -69,13 +69,17 @@
   ul,ol {
     max-width: $line-width;
     color: $white-main;
-    margin: 0vw auto 2rem;
+    margin: 1vw auto 2rem;
     li {
       p {
         margin: 0vw auto 1rem;
       }
     }
   }
+}
+
+h2.ul {
+  text-decoration: underline;
 }
 
 .c-post {

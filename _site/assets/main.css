@@ -963,9 +963,12 @@ strong {
   .c-post--list ul, .c-post--list ol {
     max-width: 465px;
     color: #ffffff;
-    margin: 0vw auto 2rem; }
+    margin: 1vw auto 2rem; }
     .c-post--list ul li p, .c-post--list ol li p {
       margin: 0vw auto 1rem; }
+
+h2.ul {
+  text-decoration: underline; }
 
 .c-post {
   margin-top: 2.5rem;

@@ -8,7 +8,7 @@ layout: page
 <break></break>
 
 <div class="section">
-  <span class="heading-links" id="participant" href="#">Participant Guide</span>
+  <span class="heading-links" id="participant" href="#">About</span>
 </div>
 
 <section class="c-post--list">
