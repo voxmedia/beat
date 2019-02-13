@@ -2,6 +2,7 @@
 title: Submit an idea
 date: 2017-10-06 12:00:00
 layout: page
+published: false
 ---
 
 <div style="height: 10vw;"></div>

@@ -1,44 +1,180 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-09T19:51:30+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">Submit an idea</title><link href="http://localhost:4000/submit-an-idea.html" rel="alternate" type="text/html" title="Submit an idea" /><published>2017-10-06T12:00:00+00:00</published><updated>2017-10-06T12:00:00+00:00</updated><id>http://localhost:4000/submit-an-idea</id><content type="html" xml:base="http://localhost:4000/submit-an-idea.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-13T20:55:28+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">schedule</title><link href="http://localhost:4000/schedule.html" rel="alternate" type="text/html" title="schedule" /><published>2019-02-13T12:00:00+00:00</published><updated>2019-02-13T12:00:00+00:00</updated><id>http://localhost:4000/schedule</id><content type="html" xml:base="http://localhost:4000/schedule.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 
 &lt;break&gt;&lt;/break&gt;
 
 &lt;div class=&quot;section&quot;&gt;
-  &lt;span class=&quot;heading-links&quot; id=&quot;participant&quot; href=&quot;#&quot;&gt;Submit an Idea&lt;/span&gt;
+  &lt;span class=&quot;heading-links&quot; id=&quot;participant&quot; href=&quot;#&quot;&gt;Schedule&lt;/span&gt;
 &lt;/div&gt;
 
-&lt;section class=&quot;c-post--list&quot;&gt;
-  &lt;p&gt;Ideas submissions are due Thursday 1/31 and you’ll receive an email letting you know if your idea was accepted by Monday 2/4.&lt;/p&gt;
+&lt;section class=&quot;c-post--list schedule&quot;&gt;
 
-  &lt;p&gt;To access the Trello Board, click &lt;a target=&quot;_blank&quot; href=&quot;https://trello.com/invite/b/OrOxXDIx/896dd492378444b9b606ad2133494262/beat-2019-planning-board&quot;&gt;here&lt;/a&gt;.
+  &lt;p&gt;
+    &lt;b&gt;Jump To:&lt;/b&gt;&lt;br /&gt;&lt;a href=&quot;#thurs&quot;&gt;Thursday 2/21&lt;/a&gt;, &lt;a href=&quot;#fri&quot;&gt;Friday 2/22&lt;/a&gt;
+  &lt;/p&gt;
+
+  &lt;break id=&quot;thurs&quot;&gt;&lt;/break&gt;
+
+  &lt;break&gt;&lt;/break&gt;
+
+  &lt;h2 class=&quot;ul&quot;&gt;Thursday 2/21&lt;/h2&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;8:00AM-9:00AM&lt;/b&gt;
     &lt;ul&gt;
-      &lt;li&gt;You may need to hit “join board” in order to edit it.&lt;/li&gt;
-      &lt;li&gt;If you need access to Trello, please dm Ashley Twaddell.&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Breakfast&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
 
-  &lt;h2&gt;How to submit an idea&lt;/h2&gt;
-  &lt;p&gt;The Trello planning board is divided into multiple lists. Each list is a different format of content. Their definitions are as follows:&lt;/p&gt;
-
   &lt;p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Workshops:&lt;/b&gt; Workshops should be designed with an activity in mind. Your participants will walk away having learned a new skill and somehow trying on that skill, either by making something, walking through a program step-by-step, completing a worksheet, role-playing, you name it! [Workshops are either 1hr or 1hr15min.]&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Huddles:&lt;/b&gt; Huddles are just a fun word for discussions. Unlike workshops, these conversations might not have a hands on activity or a super-specific goal. They might just be a space to talk and connect around a topic of interest to a specific group. &lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Lightning talks:&lt;/b&gt; Lightning talks (or storytime!) are short presentations that are given to the entire group. We usually stack a few back to back and space them throughout the program. Lightning talks can be on any topic and can be shown with or without slides. [Lightning talks are either 3min, 5min, or 10min]&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Guided conversations:&lt;/b&gt; The idea behind guided conversations is to create space for any complex conversations you may have needed to have as a team about something work related, team health related or about the company or industry. Ideally,  at the end of a guided conversation, the group will walk away with 1 or 2 action items to improve or implement the idea in a decided timeframe. The leader will be responsible for seeing this through. Leadership will prepare some of their own ideas for conversations, but welcome you to provide topics of interest as well.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;+1s:&lt;/b&gt; Plus ones are outside speakers from the industry. We can invite them in to lead a workshop or give a keynote talk. Ashley will reach out and hopefully a guest or two will be available!  &lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Activities:&lt;/b&gt; Activities are events you organize. e.g. a morning run or some late night board games. Upvote your favorites and add yourself to the card if you’d like to join any of them.&lt;/li&gt;
-    &lt;li&gt;&lt;b&gt;Backboard:&lt;/b&gt; The backboard is where you can suggest an idea that you either can’t or do not wish to run. If you look at the list and see a card that you think you can be the owner of, pick it up and  move it over to the respective list it belongs in and mark yourself as the owner.&lt;/li&gt;
-  &lt;/ul&gt;
+    &lt;b&gt;9:00AM-9:45AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Team Photo &amp;amp; Kickoff&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/p&gt;
 
-  &lt;p&gt;One other feature that  I’ve added to the board this year is the ability to up-vote. If you like someone’s idea, instead of adding yourself to the card like we did last year, simply  give it a vote. This will help me see where interest lies across our programs.&lt;/p&gt;
+  &lt;p&gt;
+    &lt;b&gt;9:45AM-10:00AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
 
-  &lt;h2&gt;How is the final schedule chosen?&lt;/h2&gt;
+  &lt;p&gt;
+    &lt;b&gt;10:00AM-11:15AM - Session 1&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;World Wide Work&lt;/b&gt;&lt;br /&gt;Speaker: Ethan Marcotte&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Before/After Effects&lt;/b&gt;&lt;br /&gt;Speaker: Alex Cheung&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Power of Edge Computing&lt;/b&gt;&lt;br /&gt;Speaker: Josh Larson&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Astrology 101&lt;/b&gt;&lt;br /&gt;Speaker: Tessa Harmon&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
 
-  &lt;p&gt;After the cut off date for idea submission ends, Ashley goes into the board and categorizes all the information. She looks at the subject matter of the idea, who the audience is, the length of the program, who is running it and what the outcomes will be. Now she’ll also be able to see how much interest there is with the voting tool. At the end, her goal is to organize a well-rounded event that offers a lot of diverse and valuable programming. She also carefully looks at how the sessions fit together -- e.g. don’t run all of the engineering topics in one session. At the very end she drops it all into a black hat and taps it with a black wand and ABRACADABRA...BEAT is born!&lt;/p&gt;
+  &lt;p&gt;
+    &lt;b&gt;11:15AM-11:30AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Breaks and Snacks&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
 
-  &lt;p&gt;If you  have any questions about  your ideas or need help shaping them, reach out to Ashley directly or feel free to use the #beat-2019 slack channel to get feedback.&lt;/p&gt;
-  
+  &lt;p&gt;
+    &lt;b&gt;11:30AM-11:55PM - Lightning Talks&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Fighting Games: A Breakdown&lt;/b&gt;&lt;br /&gt;Speaker: Kyle Johnson&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;I’m Glad My Parents Saved My Report Card&lt;/b&gt;&lt;br /&gt;Speaker: Jory Ruscio&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Digital Advertising Lifecycle...&lt;/b&gt;&lt;br /&gt;Speaker: Briar Cromartie&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;#FridgeGoals&lt;/b&gt;&lt;br /&gt;Speaker: Heather Savatta&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Water Treatment Explained&lt;/b&gt;&lt;br /&gt;Speaker: Colleen Geohagan&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;12:00PM-1:15PM - Session 2&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Designing a Platform Without Losing Your Soul&lt;/b&gt;&lt;br /&gt;Speaker: Mandy Brown&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Design Your Own Podcast&lt;/b&gt;&lt;br /&gt;Speaker: Courtney Leonard&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;FEE’s Guide to debugging Rails/SBN App&lt;/b&gt;&lt;br /&gt;Speaker: Ben Alt&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Scriptwriting Software&lt;/b&gt;&lt;br /&gt;Speaker: Malachi “Mac” Broadus&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;1:15PM-2:15PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Lunch&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;2:15PM-2:45PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Keynote Speaker - Trei Brundrett&lt;/b&gt;&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;2:45PM-3:00PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;3:00PM-4:00PM - Session 3&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;How to give feedback and have it be heard&lt;/b&gt;&lt;br /&gt;Speaker: Keaty Gross&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Chorus Architecture from 10k feet&lt;/b&gt;&lt;br /&gt;Speaker: Michael Lovitt&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Improving Remote Meetings&lt;/b&gt;&lt;br /&gt;Speakers: Sasha Perez &amp;amp; Katie O’Dowd&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Ethical Ad Targeting&lt;/b&gt;&lt;br /&gt;Speakers: Megan W., Brian A.&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Calligraphy 101&lt;/b&gt;&lt;br /&gt;Speaker: Ramla Mahmood&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;4:00PM-4:30PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break and Snacks&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;4:30PM-5:30PM - Session 4&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Wither the Open Web&lt;/b&gt;&lt;br /&gt;Speaker: Jeff Kramer&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Critiquing 101&lt;/b&gt;&lt;br /&gt;Speakers: Katie K. &amp;amp; Georgia Cowley&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Glitch Docs&lt;/b&gt;&lt;br /&gt;Speaker: Becca Barton&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Collaborating on UX&lt;/b&gt;&lt;br /&gt;Speaker: Nicole Fenton&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Making Remote Work for You&lt;/b&gt;&lt;br /&gt;Speaker: Ashley Twaddell&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;5:30PM-5:45PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;5:45PM-6:30PM - Lightning Talks&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Tips &amp;amp; Tricks...&lt;/b&gt;&lt;br /&gt;Speaker: Dan Chilton&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Karaoke Star&lt;/b&gt;&lt;br /&gt;Speaker: Frank Manna&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;The One with Two Towers, 2fa...&lt;/b&gt;&lt;br /&gt;Speaker: Krissy Kingwood&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;All the Ways You’re Tracked Online...&lt;/b&gt;&lt;br /&gt;Speaker: Ian Carrico&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Immersive Site-specific Sound Design&lt;/b&gt;&lt;br /&gt;Speaker: Miles Ewell&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Greetings Fellow Kids...&lt;/b&gt;&lt;br /&gt;Speaker: Ryan Gantz&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;3 Biggest JavaScript Mistakes I’ve Made...&lt;/b&gt;&lt;br /&gt;Speaker: Josh Larson&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Faith: Exploring Purpose &amp;amp; Meaning Through Failure&lt;/b&gt;&lt;br /&gt;Speaker: Brian Anderson&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;6:30PM-7:00PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;7:00PM-9:00PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Dinner&lt;/b&gt;&lt;br /&gt;Location: Wild Days&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;9:00PM Onward&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Evening Activities&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;break id=&quot;fri&quot;&gt;&lt;/break&gt;
+
+  &lt;break&gt;&lt;/break&gt;
+
+  &lt;h2 class=&quot;ul&quot;&gt;Friday 2/22&lt;/h2&gt;
+
 &lt;/section&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/about.html" rel="alternate" type="text/html" title="about" /><published>2017-10-02T12:00:00+00:00</published><updated>2017-10-02T12:00:00+00:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 
 &lt;break&gt;&lt;/break&gt;

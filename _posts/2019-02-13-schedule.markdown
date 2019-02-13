@@ -1,0 +1,183 @@
+---
+title: schedule
+date: 2019-02-13 12:00:00
+layout: page
+---
+<div style="height: 10vw;"></div>
+
+<break></break>
+
+<div class="section">
+  <span class="heading-links" id="participant" href="#">Schedule</span>
+</div>
+
+<section class="c-post--list schedule">
+
+  <p>
+    <b>Jump To:</b><br><a href="#thurs">Thursday 2/21</a>, <a href="#fri">Friday 2/22</a>
+  </p>
+
+  <break id="thurs"></break>
+
+  <break></break>
+
+  <h2 class="ul">Thursday 2/21</h2>
+
+  <p>
+    <b>8:00AM-9:00AM</b>
+    <ul>
+      <li><b>Breakfast</b><br>Location: Beverly Snow Room</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>9:00AM-9:45AM</b>
+    <ul>
+      <li><b>Team Photo & Kickoff</b><br>Location: Beverly Snow Room</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>9:45AM-10:00AM</b>
+    <ul>
+      <li><b>Break</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>10:00AM-11:15AM - Session 1</b>
+    <ul>
+      <li><b>World Wide Work</b><br>Speaker: Ethan Marcotte<br>Location: TBD</li>
+      <li><b>Before/After Effects</b><br>Speaker: Alex Cheung<br>Location: TBD</li>
+      <li><b>Power of Edge Computing</b><br>Speaker: Josh Larson<br>Location: TBD</li>
+      <li><b>Astrology 101</b><br>Speaker: Tessa Harmon<br>Location: TBD</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>11:15AM-11:30AM</b>
+    <ul>
+      <li><b>Breaks and Snacks</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>11:30AM-11:55PM - Lightning Talks</b>
+    <ul>
+      <li><b>Fighting Games: A Breakdown</b><br>Speaker: Kyle Johnson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>I’m Glad My Parents Saved My Report Card</b><br>Speaker: Jory Ruscio<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Digital Advertising Lifecycle...</b><br>Speaker: Briar Cromartie<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
+      <li><b>#FridgeGoals</b><br>Speaker: Heather Savatta<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Water Treatment Explained</b><br>Speaker: Colleen Geohagan<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>12:00PM-1:15PM - Session 2</b>
+    <ul>
+      <li><b>Designing a Platform Without Losing Your Soul</b><br>Speaker: Mandy Brown<br>Location: TBD</li>
+      <li><b>Design Your Own Podcast</b><br>Speaker: Courtney Leonard<br>Location: TBD</li>
+      <li><b>FEE’s Guide to debugging Rails/SBN App</b><br>Speaker: Ben Alt<br>Location: TBD</li>
+      <li><b>Scriptwriting Software</b><br>Speaker: Malachi “Mac” Broadus<br>Location: TBD</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>1:15PM-2:15PM</b>
+    <ul>
+      <li><b>Lunch</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>2:15PM-2:45PM</b>
+    <ul>
+      <li><b>Keynote Speaker - Trei Brundrett</b><br>Location: TBD</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>2:45PM-3:00PM</b>
+    <ul>
+      <li><b>Break</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>3:00PM-4:00PM - Session 3</b>
+    <ul>
+      <li><b>How to give feedback and have it be heard</b><br>Speaker: Keaty Gross<br>Location: TBD</li>
+      <li><b>Chorus Architecture from 10k feet</b><br>Speaker: Michael Lovitt<br>Location: TBD</li>
+      <li><b>Improving Remote Meetings</b><br>Speakers: Sasha Perez & Katie O’Dowd<br>Location: TBD</li>
+      <li><b>Ethical Ad Targeting</b><br>Speakers: Megan W., Brian A.<br>Location: TBD</li>
+      <li><b>Calligraphy 101</b><br>Speaker: Ramla Mahmood<br>Location: TBD</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>4:00PM-4:30PM</b>
+    <ul>
+      <li><b>Break and Snacks</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>4:30PM-5:30PM - Session 4</b>
+    <ul>
+      <li><b>Wither the Open Web</b><br>Speaker: Jeff Kramer<br>Location: TBD</li>
+      <li><b>Critiquing 101</b><br>Speakers: Katie K. & Georgia Cowley<br>Location: TBD</li>
+      <li><b>Glitch Docs</b><br>Speaker: Becca Barton<br>Location: TBD</li>
+      <li><b>Collaborating on UX</b><br>Speaker: Nicole Fenton<br>Location: TBD</li>
+      <li><b>Making Remote Work for You</b><br>Speaker: Ashley Twaddell<br>Location: TBD</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>5:30PM-5:45PM</b>
+    <ul>
+      <li><b>Break</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>5:45PM-6:30PM - Lightning Talks</b>
+    <ul>
+      <li><b>Tips & Tricks...</b><br>Speaker: Dan Chilton<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Karaoke Star</b><br>Speaker: Frank Manna<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
+      <li><b>The One with Two Towers, 2fa...</b><br>Speaker: Krissy Kingwood<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
+      <li><b>All the Ways You’re Tracked Online...</b><br>Speaker: Ian Carrico<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Immersive Site-specific Sound Design</b><br>Speaker: Miles Ewell<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Greetings Fellow Kids...</b><br>Speaker: Ryan Gantz<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
+      <li><b>3 Biggest JavaScript Mistakes I’ve Made...</b><br>Speaker: Josh Larson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Faith: Exploring Purpose & Meaning Through Failure</b><br>Speaker: Brian Anderson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>6:30PM-7:00PM</b>
+    <ul>
+      <li><b>Break</b></li>
+    </ul>
+  </p>
+
+  <p>
+    <b>7:00PM-9:00PM</b>
+    <ul>
+      <li><b>Dinner</b><br>Location: Wild Days</li>
+    </ul>
+  </p>
+
+  <p>
+    <b>9:00PM Onward</b>
+    <ul>
+      <li><b>Evening Activities</b></li>
+    </ul>
+  </p>
+
+  <break id="fri"></break>
+
+  <break></break>
+
+  <h2 class="ul">Friday 2/22</h2>
+
+</section>

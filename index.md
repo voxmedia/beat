@@ -17,7 +17,7 @@ layout: home
     {% for post in site.posts reversed %}
       <a class="" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
     {% endfor %}
-    <a class="" href="https://voxproduct.typeform.com/to/HYilPS" target="_blank">Sign Up</a>
+    <!--<a class="" href="https://voxproduct.typeform.com/to/HYilPS" target="_blank">Sign Up</a>-->
   </div>
 </nav>
 {% endif %}
@@ -36,7 +36,7 @@ layout: home
     {% for post in site.posts reversed %}
       <a class="nav-items" href="{{ post.url | escape }}">{{ post.title | escape }}</a>
     {% endfor %}
-    <a class="" href="https://voxproduct.typeform.com/to/HYilPS" target="_blank">Sign Up</a>
+    <!--<a class="" href="https://voxproduct.typeform.com/to/HYilPS" target="_blank">Sign Up</a>-->
   </div>
 
   <div class="c-post-tag-left">

@@ -80,6 +80,20 @@
 
 h2.ul {
   text-decoration: underline;
+  .schedule & {
+    margin-bottom: 3rem;
+  }
+}
+
+section.schedule b {
+  font-size: 1.2rem;
+}
+
+body section.schedule ul {
+  border-bottom: 1px solid rgba(#fff, 0.5);
+  margin-bottom: 2rem !important;
+  padding-bottom: 1.5rem;
+  display: block;
 }
 
 .c-post {
