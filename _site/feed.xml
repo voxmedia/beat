@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-13T20:55:28+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">schedule</title><link href="http://localhost:4000/schedule.html" rel="alternate" type="text/html" title="schedule" /><published>2019-02-13T12:00:00+00:00</published><updated>2019-02-13T12:00:00+00:00</updated><id>http://localhost:4000/schedule</id><content type="html" xml:base="http://localhost:4000/schedule.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-14T01:36:23+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">schedule</title><link href="http://localhost:4000/schedule.html" rel="alternate" type="text/html" title="schedule" /><published>2019-02-13T12:00:00+00:00</published><updated>2019-02-13T12:00:00+00:00</updated><id>http://localhost:4000/schedule</id><content type="html" xml:base="http://localhost:4000/schedule.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 
 &lt;break&gt;&lt;/break&gt;
 
@@ -164,7 +164,7 @@
 
   &lt;p&gt;
     &lt;b&gt;9:00PM Onward&lt;/b&gt;
-    &lt;ul&gt;
+    &lt;ul class=&quot;last&quot;&gt;
       &lt;li&gt;&lt;b&gt;Evening Activities&lt;/b&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
@@ -174,6 +174,101 @@
   &lt;break&gt;&lt;/break&gt;
 
   &lt;h2 class=&quot;ul&quot;&gt;Friday 2/22&lt;/h2&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;8:00AM-8:45AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Breakfast&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Parents ERG Breakfast Meetup&lt;/b&gt;&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;8:45AM-9:30AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Leadership Lightning Talks + Q&amp;amp;A&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;9:30AM-10:00AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;A Note From Jim&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;10:00AM-10:15AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;10:15AM-11:30AM - Session 1&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Diversity, Equity &amp;amp; Inclusion (+1)&lt;/b&gt;&lt;br /&gt;Speaker: Nicole Sanchez&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Unlocking Invision&lt;/b&gt;&lt;br /&gt;Speaker: Justo Garcia&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;What’s Happening in Production Now?&lt;/b&gt;&lt;br /&gt;Speaker: Blake Thomson&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Chased by Waterfalls: Iterating on Products...&lt;/b&gt;&lt;br /&gt;Speaker: Max Martin&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Peer Mentorship&lt;/b&gt;&lt;br /&gt;Speakers: Marie Connelly &amp;amp; Nozlee Samadzadeh&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;11:30AM-11:45AM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Break&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;11:45AM-12:00PM - Lightning Talks&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;How Not to Hire&lt;/b&gt;&lt;br /&gt;Speaker: Jory Ruscio&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Is Everything Advertising Anyway&lt;/b&gt;&lt;br /&gt;Speaker: Alex Cheung&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;A Case for A Coaching Culture&lt;/b&gt;&lt;br /&gt;Speaker: Ashley Twaddell&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;12:00PM-1:00PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Lunch&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;1:00PM-2:00PM - Session 2&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Scaling Productive Comms&lt;/b&gt;&lt;br /&gt;Speaker: Livia Labate&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Meditation 101&lt;/b&gt;&lt;br /&gt;Speaker: Anna Graves&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Stop Working...Financial Independence&lt;/b&gt;&lt;br /&gt;Speaker: Kyle Johnson&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Imposter Syndrome&lt;/b&gt;&lt;br /&gt;Speakers: Krissy K, Colleen G, Ben A.&lt;br /&gt;Location: TBD&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Elections &amp;amp; Tech (+1)&lt;/b&gt;&lt;br /&gt;Speaker: Chris Coletta&lt;br /&gt;Location: TBD&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;2:00PM-2:15PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Lunch&lt;/b&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;2:15PM-2:45PM&lt;/b&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Keynote from Andrew &amp;amp; Kim&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;b&gt;2:45PM-3:00PM&lt;/b&gt;
+    &lt;ul class=&quot;last&quot;&gt;
+      &lt;li&gt;&lt;b&gt;Closing&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;
 
 &lt;/section&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">about</title><link href="http://localhost:4000/about.html" rel="alternate" type="text/html" title="about" /><published>2017-10-02T12:00:00+00:00</published><updated>2017-10-02T12:00:00+00:00</updated><id>http://localhost:4000/about</id><content type="html" xml:base="http://localhost:4000/about.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 

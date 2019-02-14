@@ -86,7 +86,11 @@ h2.ul {
 }
 
 section.schedule b {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
+}
+
+section.schedule li b {
+  font-size: 1.1rem;
 }
 
 body section.schedule ul {
@@ -94,6 +98,9 @@ body section.schedule ul {
   margin-bottom: 2rem !important;
   padding-bottom: 1.5rem;
   display: block;
+  &.last {
+    border: none;
+  }
 }
 
 .c-post {
