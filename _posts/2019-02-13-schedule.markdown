@@ -191,7 +191,7 @@ layout: page
   <p>
     <b>8:45AM-9:30AM</b>
     <ul>
-      <li><b>Leadership Lightning Talks + Q&A</b><br>Location: Beverly Snow Room</li>
+      <li><b>The Business of Vox Product & Team AMA</b><br>Location: Beverly Snow Room</li>
     </ul>
   </p>
 
