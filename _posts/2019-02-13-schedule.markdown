@@ -146,10 +146,11 @@ layout: page
       <li><b>Karaoke Star</b><br>Speaker: Frank Manna<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
       <li><b>The One with Two Towers, 2fa...</b><br>Speaker: Krissy Kingwood<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
       <li><b>All the Ways You’re Tracked Online...</b><br>Speaker: Ian Carrico<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
-      <li><b>Immersive Site-specific Sound Design</b><br>Speaker: Miles Ewell<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
       <li><b>Greetings Fellow Kids...</b><br>Speaker: Ryan Gantz<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
       <li><b>3 Biggest JavaScript Mistakes I’ve Made...</b><br>Speaker: Josh Larson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
-      <li><b>Faith: Exploring Purpose & Meaning Through Failure</b><br>Speaker: Brian Anderson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Faith: Exploring Purpose & Meaning Through Failure</b><br>Speaker: Brian Anderson<br>Duration: 5 mins<br>Location: Beverly Snow Room
+      </li>
+      <li><b>Immersive Site-specific Sound Design</b><br>Speaker: Miles Ewell<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
     </ul>
   </p>
 
@@ -212,11 +213,10 @@ layout: page
   <p>
     <b>10:15AM-11:30AM - Session 1</b>
     <ul>
-      <li><b>Peer Mentorship</b><br>Speakers: Marie Connelly & Nozlee Samadzadeh<br>Location: Beverly Snow</li>
+      <li><b>Diversity, Equity & Inclusion (+1)</b><br>Speaker: Nicole Sanchez<br>Location: Beverly Snow</li>
       <li><b>What’s Happening in Production Now?</b><br>Speaker: Blake Thomson<br>Location: Barnett-Arden A</li>
-      <li><b>Diversity, Equity & Inclusion (+1)</b><br>Speaker: Nicole Sanchez<br>Location: Barnett-Aden B</li>
-      <li><b>Chased by Waterfalls: Iterating on Products...</b><br>Speaker: Max Martin<br>Location: Salon A</li>
-      <li><b>Unlocking Invision</b><br>Speaker: Justo Garcia<br>Location: The Sidney</li>
+      <li><b>Chased by Waterfalls: Iterating on Products...</b><br>Speaker: Max Martin<br>Location: Barnett-Aden B</li>
+      <li><b>Unlocking Invision</b><br>Speaker: Justo Garcia<br>Location: Salon A</li>
     </ul>
   </p>
 
