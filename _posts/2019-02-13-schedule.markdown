@@ -148,9 +148,6 @@ layout: page
       <li><b>All the Ways You’re Tracked Online...</b><br>Speaker: Ian Carrico<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
       <li><b>Greetings Fellow Kids...</b><br>Speaker: Ryan Gantz<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
       <li><b>3 Biggest JavaScript Mistakes I’ve Made...</b><br>Speaker: Josh Larson<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
-      <li><b>Faith: Exploring Purpose & Meaning Through Failure</b><br>Speaker: Brian Anderson<br>Duration: 5 mins<br>Location: Beverly Snow Room
-      </li>
-      <li><b>Immersive Site-specific Sound Design</b><br>Speaker: Miles Ewell<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
     </ul>
   </p>
 
@@ -214,9 +211,10 @@ layout: page
     <b>10:15AM-11:30AM - Session 1</b>
     <ul>
       <li><b>Diversity, Equity & Inclusion (+1)</b><br>Speaker: Nicole Sanchez<br>Location: Beverly Snow</li>
-      <li><b>What’s Happening in Production Now?</b><br>Speaker: Blake Thomson<br>Location: Barnett-Arden A</li>
-      <li><b>Chased by Waterfalls: Iterating on Products...</b><br>Speaker: Max Martin<br>Location: Barnett-Aden B</li>
-      <li><b>Unlocking Invision</b><br>Speaker: Justo Garcia<br>Location: Salon A</li>
+      <li><b>Peer Mentorship</b><br>Speakers: Marie & Nozlee<br>Location: Barnett-Arden A</li>
+      <li><b>What’s Happening in Production Now?</b><br>Speaker: Blake Thomson<br>Location: Barnett-Arden B</li>
+      <li><b>Chased by Waterfalls: Iterating on Products...</b><br>Speaker: Max Martin<br>Location: Salon A</li>
+      <li><b>Unlocking Invision</b><br>Speaker: Justo Garcia<br>Location: Sidney</li>
     </ul>
   </p>
 
@@ -228,8 +226,10 @@ layout: page
   </p>
 
   <p>
-    <b>11:45AM-12:00PM - Lightning Talks</b>
+    <b>11:45AM-12:15PM - Lightning Talks</b>
     <ul>
+      <li><b>Faith: Exploring Purpose & Meaning Through Failure</b><br>Speaker: Jory Ruscio<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
+      <li><b>Immersive Site-specific Sound Design</b><br>Speaker: Miles Ewell<br>Duration: 7 mins<br>Location: Beverly Snow Room</li>
       <li><b>How Not to Hire</b><br>Speaker: Jory Ruscio<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
       <li><b>Is Everything Advertising Anyway?</b><br>Speaker: Alex Cheung<br>Duration: 3 mins<br>Location: Beverly Snow Room</li>
       <li><b>A Case for A Coaching Culture</b><br>Speaker: Ashley Twaddell<br>Duration: 5 mins<br>Location: Beverly Snow Room</li>
@@ -237,7 +237,7 @@ layout: page
   </p>
 
   <p>
-    <b>12:00PM-1:00PM</b>
+    <b>12:15PM-1:00PM</b>
     <ul>
       <li><b>Lunch</b><br>Location: Beverly Snow</li>
     </ul>
@@ -249,7 +249,6 @@ layout: page
       <li><b>Imposter Syndrome</b><br>Speakers: Krissy K, Colleen G, Ben A.<br>Location: Beverly Snow</li>
       <li><b>Scaling Productive Comms</b><br>Speaker: Livia Labate<br>Location: Barnett-Aden A</li>
       <li><b>Stop Working...Financial Independence</b><br>Speaker: Kyle Johnson<br>Location: Barnett-Aden B</li>
-      <li><b>Elections & Tech (+1)</b><br>Speaker: Chris Coletta<br>Location: Salon A</li>
       <li><b>Meditation 101</b><br>Speaker: Anna Graves<br>Location: Yoga Room</li>
     </ul>
   </p>

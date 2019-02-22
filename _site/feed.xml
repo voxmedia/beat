@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-21T21:40:14+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">schedule</title><link href="http://localhost:4000/schedule.html" rel="alternate" type="text/html" title="schedule" /><published>2019-02-13T12:00:00+00:00</published><updated>2019-02-13T12:00:00+00:00</updated><id>http://localhost:4000/schedule</id><content type="html" xml:base="http://localhost:4000/schedule.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T13:25:13+00:00</updated><id>http://localhost:4000/</id><title type="html">Beat</title><subtitle>BEAT is a celebration of each of us and all of us at once. It’s an opportunity to reflect, engage, explore, inspire and connect. Using workshops, games, conversations and storytelling to strengthen our relationships and share our knowledge. It only works if we all work. We get out of it what we put into it. This isn’t a conference. It isn’t a summit. This is a chance to take a BEAT.</subtitle><entry><title type="html">schedule</title><link href="http://localhost:4000/schedule.html" rel="alternate" type="text/html" title="schedule" /><published>2019-02-13T12:00:00+00:00</published><updated>2019-02-13T12:00:00+00:00</updated><id>http://localhost:4000/schedule</id><content type="html" xml:base="http://localhost:4000/schedule.html">&lt;div style=&quot;height: 10vw;&quot;&gt;&lt;/div&gt;
 
 &lt;break&gt;&lt;/break&gt;
 
@@ -143,9 +143,6 @@
       &lt;li&gt;&lt;b&gt;All the Ways You’re Tracked Online...&lt;/b&gt;&lt;br /&gt;Speaker: Ian Carrico&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;Greetings Fellow Kids...&lt;/b&gt;&lt;br /&gt;Speaker: Ryan Gantz&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;3 Biggest JavaScript Mistakes I’ve Made...&lt;/b&gt;&lt;br /&gt;Speaker: Josh Larson&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Faith: Exploring Purpose &amp;amp; Meaning Through Failure&lt;/b&gt;&lt;br /&gt;Speaker: Brian Anderson&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room
-      &lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Immersive Site-specific Sound Design&lt;/b&gt;&lt;br /&gt;Speaker: Miles Ewell&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
 
@@ -209,9 +206,10 @@
     &lt;b&gt;10:15AM-11:30AM - Session 1&lt;/b&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;b&gt;Diversity, Equity &amp;amp; Inclusion (+1)&lt;/b&gt;&lt;br /&gt;Speaker: Nicole Sanchez&lt;br /&gt;Location: Beverly Snow&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;What’s Happening in Production Now?&lt;/b&gt;&lt;br /&gt;Speaker: Blake Thomson&lt;br /&gt;Location: Barnett-Arden A&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Chased by Waterfalls: Iterating on Products...&lt;/b&gt;&lt;br /&gt;Speaker: Max Martin&lt;br /&gt;Location: Barnett-Aden B&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Unlocking Invision&lt;/b&gt;&lt;br /&gt;Speaker: Justo Garcia&lt;br /&gt;Location: Salon A&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Peer Mentorship&lt;/b&gt;&lt;br /&gt;Speakers: Marie &amp;amp; Nozlee&lt;br /&gt;Location: Barnett-Arden A&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;What’s Happening in Production Now?&lt;/b&gt;&lt;br /&gt;Speaker: Blake Thomson&lt;br /&gt;Location: Barnett-Arden B&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Chased by Waterfalls: Iterating on Products...&lt;/b&gt;&lt;br /&gt;Speaker: Max Martin&lt;br /&gt;Location: Salon A&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Unlocking Invision&lt;/b&gt;&lt;br /&gt;Speaker: Justo Garcia&lt;br /&gt;Location: Sidney&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
 
@@ -223,8 +221,10 @@
   &lt;/p&gt;
 
   &lt;p&gt;
-    &lt;b&gt;11:45AM-12:00PM - Lightning Talks&lt;/b&gt;
+    &lt;b&gt;11:45AM-12:15PM - Lightning Talks&lt;/b&gt;
     &lt;ul&gt;
+      &lt;li&gt;&lt;b&gt;Faith: Exploring Purpose &amp;amp; Meaning Through Failure&lt;/b&gt;&lt;br /&gt;Speaker: Jory Ruscio&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
+      &lt;li&gt;&lt;b&gt;Immersive Site-specific Sound Design&lt;/b&gt;&lt;br /&gt;Speaker: Miles Ewell&lt;br /&gt;Duration: 7 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;How Not to Hire&lt;/b&gt;&lt;br /&gt;Speaker: Jory Ruscio&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;Is Everything Advertising Anyway?&lt;/b&gt;&lt;br /&gt;Speaker: Alex Cheung&lt;br /&gt;Duration: 3 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;A Case for A Coaching Culture&lt;/b&gt;&lt;br /&gt;Speaker: Ashley Twaddell&lt;br /&gt;Duration: 5 mins&lt;br /&gt;Location: Beverly Snow Room&lt;/li&gt;
@@ -232,7 +232,7 @@
   &lt;/p&gt;
 
   &lt;p&gt;
-    &lt;b&gt;12:00PM-1:00PM&lt;/b&gt;
+    &lt;b&gt;12:15PM-1:00PM&lt;/b&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;b&gt;Lunch&lt;/b&gt;&lt;br /&gt;Location: Beverly Snow&lt;/li&gt;
     &lt;/ul&gt;
@@ -244,7 +244,6 @@
       &lt;li&gt;&lt;b&gt;Imposter Syndrome&lt;/b&gt;&lt;br /&gt;Speakers: Krissy K, Colleen G, Ben A.&lt;br /&gt;Location: Beverly Snow&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;Scaling Productive Comms&lt;/b&gt;&lt;br /&gt;Speaker: Livia Labate&lt;br /&gt;Location: Barnett-Aden A&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;Stop Working...Financial Independence&lt;/b&gt;&lt;br /&gt;Speaker: Kyle Johnson&lt;br /&gt;Location: Barnett-Aden B&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Elections &amp;amp; Tech (+1)&lt;/b&gt;&lt;br /&gt;Speaker: Chris Coletta&lt;br /&gt;Location: Salon A&lt;/li&gt;
       &lt;li&gt;&lt;b&gt;Meditation 101&lt;/b&gt;&lt;br /&gt;Speaker: Anna Graves&lt;br /&gt;Location: Yoga Room&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/p&gt;
